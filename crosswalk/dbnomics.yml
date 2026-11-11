@@ -1,0 +1,12 @@
+provider: dbnomics
+apis_io: https://apis.io/providers/dbnomics/
+context: open-data-catalogs
+generated: '2026-11-11'
+concepts:
+  dataset:
+    path_segment:
+    - datasets
+    properties: {}
+    core_coverage: 0.0
+    evidence:
+    - openapi/_original/dbnomics-openapi.yml#GET /datasets/{provider_code}

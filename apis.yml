@@ -1,0 +1,45 @@
+aid: common-open-data-catalogs
+name: Open Data Catalogs
+type: Common
+description: 'The common Open Data Catalogs vocabulary, distilled from the harvested OpenAPI of 276 providers in
+  APIs.io: shared operations, JSON Schema per concept with measured adoption, and a crosswalk from the common names
+  to each provider''s own.'
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+- Application Programming Interface
+- API
+- Open Data
+- Data Catalog
+- Government Data
+- DCAT
+- Common Schema
+created: '2026-11-11'
+modified: '2026-11-11'
+url: https://raw.githubusercontent.com/api-commons/open-data-catalogs/main/apis.yml
+specificationVersion: '0.20'
+apis:
+- aid: common-open-data-catalogs:open-data-catalogs
+  name: Common Open Data Catalogs Interface
+  description: The Open Data Catalogs interface the market already shares, measured.
+  humanURL: https://github.com/api-commons/open-data-catalogs
+  tags:
+  - Open Data
+  - Data Catalog
+  properties:
+  - type: OpenAPI
+    url: https://raw.githubusercontent.com/api-commons/open-data-catalogs/main/openapi.yml
+  - type: Profile
+    url: https://raw.githubusercontent.com/api-commons/open-data-catalogs/main/profile.yml
+  - type: Adopters
+    url: https://raw.githubusercontent.com/api-commons/open-data-catalogs/main/adopters.yml
+  - type: Rules
+    url: https://raw.githubusercontent.com/api-commons/schema-commons/main/ruleset/schema-commons-naming.yaml
+  - type: JSONSchema
+    name: dataset
+    url: https://raw.githubusercontent.com/api-commons/open-data-catalogs/main/schema/dataset.json
+common:
+- type: License
+  url: https://raw.githubusercontent.com/api-commons/open-data-catalogs/main/LICENSE
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com

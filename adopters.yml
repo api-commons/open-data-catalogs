@@ -1,0 +1,168 @@
+context: open-data-catalogs
+generated: '2026-11-11'
+adopters:
+- provider: api-data-gov
+  apis_io: https://apis.io/providers/api-data-gov/
+  crosswalk: crosswalk/api-data-gov.yml
+  concepts:
+  - dataset
+- provider: bureau-of-transportation-statistics
+  apis_io: https://apis.io/providers/bureau-of-transportation-statistics/
+  crosswalk: crosswalk/bureau-of-transportation-statistics.yml
+  concepts:
+  - dataset
+- provider: california-attorney-general
+  apis_io: https://apis.io/providers/california-attorney-general/
+  crosswalk: crosswalk/california-attorney-general.yml
+  concepts:
+  - dataset
+- provider: cms-gov
+  apis_io: https://apis.io/providers/cms-gov/
+  crosswalk: crosswalk/cms-gov.yml
+  concepts:
+  - dataset
+- provider: csiro
+  apis_io: https://apis.io/providers/csiro/
+  crosswalk: crosswalk/csiro.yml
+  concepts:
+  - dataset
+- provider: data-world
+  apis_io: https://apis.io/providers/data-world/
+  crosswalk: crosswalk/data-world.yml
+  concepts:
+  - dataset
+- provider: dbnomics
+  apis_io: https://apis.io/providers/dbnomics/
+  crosswalk: crosswalk/dbnomics.yml
+  concepts:
+  - dataset
+- provider: ecmwf
+  apis_io: https://apis.io/providers/ecmwf/
+  crosswalk: crosswalk/ecmwf.yml
+  concepts:
+  - dataset
+- provider: electricity-north-west
+  apis_io: https://apis.io/providers/electricity-north-west/
+  crosswalk: crosswalk/electricity-north-west.yml
+  concepts:
+  - dataset
+- provider: endeavour-energy
+  apis_io: https://apis.io/providers/endeavour-energy/
+  crosswalk: crosswalk/endeavour-energy.yml
+  concepts:
+  - dataset
+- provider: entur
+  apis_io: https://apis.io/providers/entur/
+  crosswalk: crosswalk/entur.yml
+  concepts:
+  - dataset
+- provider: eu-open-data-portal
+  apis_io: https://apis.io/providers/eu-open-data-portal/
+  crosswalk: crosswalk/eu-open-data-portal.yml
+  concepts:
+  - dataset
+- provider: federal-communications-commission
+  apis_io: https://apis.io/providers/federal-communications-commission/
+  crosswalk: crosswalk/federal-communications-commission.yml
+  concepts:
+  - dataset
+- provider: general-services-administration
+  apis_io: https://apis.io/providers/general-services-administration/
+  crosswalk: crosswalk/general-services-administration.yml
+  concepts:
+  - dataset
+- provider: hm-land-registry
+  apis_io: https://apis.io/providers/hm-land-registry/
+  crosswalk: crosswalk/hm-land-registry.yml
+  concepts:
+  - dataset
+- provider: hydro-quebec
+  apis_io: https://apis.io/providers/hydro-quebec/
+  crosswalk: crosswalk/hydro-quebec.yml
+  concepts:
+  - dataset
+- provider: ku-leuven
+  apis_io: https://apis.io/providers/ku-leuven/
+  crosswalk: crosswalk/ku-leuven.yml
+  concepts:
+  - dataset
+- provider: la-poste-groupe
+  apis_io: https://apis.io/providers/la-poste-groupe/
+  crosswalk: crosswalk/la-poste-groupe.yml
+  concepts:
+  - dataset
+- provider: neso
+  apis_io: https://apis.io/providers/neso/
+  crosswalk: crosswalk/neso.yml
+  concepts:
+  - dataset
+- provider: northern-powergrid
+  apis_io: https://apis.io/providers/northern-powergrid/
+  crosswalk: crosswalk/northern-powergrid.yml
+  concepts:
+  - dataset
+- provider: opendatasoft
+  apis_io: https://apis.io/providers/opendatasoft/
+  crosswalk: crosswalk/opendatasoft.yml
+  concepts:
+  - dataset
+- provider: opengov
+  apis_io: https://apis.io/providers/opengov/
+  crosswalk: crosswalk/opengov.yml
+  concepts:
+  - dataset
+- provider: scottishpower
+  apis_io: https://apis.io/providers/scottishpower/
+  crosswalk: crosswalk/scottishpower.yml
+  concepts:
+  - dataset
+- provider: ssen
+  apis_io: https://apis.io/providers/ssen/
+  crosswalk: crosswalk/ssen.yml
+  concepts:
+  - dataset
+- provider: talend
+  apis_io: https://apis.io/providers/talend/
+  crosswalk: crosswalk/talend.yml
+  concepts:
+  - dataset
+- provider: ubc
+  apis_io: https://apis.io/providers/ubc/
+  crosswalk: crosswalk/ubc.yml
+  concepts:
+  - dataset
+- provider: uk-power-networks
+  apis_io: https://apis.io/providers/uk-power-networks/
+  crosswalk: crosswalk/uk-power-networks.yml
+  concepts:
+  - dataset
+- provider: university-of-bonn
+  apis_io: https://apis.io/providers/university-of-bonn/
+  crosswalk: crosswalk/university-of-bonn.yml
+  concepts:
+  - dataset
+- provider: university-of-calgary
+  apis_io: https://apis.io/providers/university-of-calgary/
+  crosswalk: crosswalk/university-of-calgary.yml
+  concepts:
+  - dataset
+- provider: university-of-edinburgh
+  apis_io: https://apis.io/providers/university-of-edinburgh/
+  crosswalk: crosswalk/university-of-edinburgh.yml
+  concepts:
+  - dataset
+- provider: university-of-helsinki
+  apis_io: https://apis.io/providers/university-of-helsinki/
+  crosswalk: crosswalk/university-of-helsinki.yml
+  concepts:
+  - dataset
+- provider: university-of-minnesota
+  apis_io: https://apis.io/providers/university-of-minnesota/
+  crosswalk: crosswalk/university-of-minnesota.yml
+  concepts:
+  - dataset
+- provider: usda-agricultural-research-service-ars-
+  apis_io: https://apis.io/providers/usda-agricultural-research-service-ars-/
+  crosswalk: crosswalk/usda-agricultural-research-service-ars-.yml
+  concepts:
+  - dataset

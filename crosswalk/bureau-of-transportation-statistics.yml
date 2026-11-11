@@ -1,0 +1,12 @@
+provider: bureau-of-transportation-statistics
+apis_io: https://apis.io/providers/bureau-of-transportation-statistics/
+context: open-data-catalogs
+generated: '2026-11-11'
+concepts:
+  dataset:
+    path_segment:
+    - views
+    properties: {}
+    core_coverage: null
+    evidence:
+    - openapi/_original/bureau-of-transportation-statistics-openapi.yml#GET /api/views/{datasetId}.json

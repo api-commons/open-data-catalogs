@@ -1,0 +1,184 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/api-commons/open-data-catalogs/main/schema/dataset.json",
+  "title": "Dataset",
+  "description": "The common dataset in Open Data Catalogs, distilled from 29 providers' own OpenAPI. Each property records the share of them that declare it.",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "x-commons-tier": "core",
+      "x-commons-share": 0.724,
+      "x-commons-providers": 21,
+      "x-commons-spellings": [
+        "id",
+        "dataset_id",
+        "identifier",
+        "slug",
+        "datasetId"
+      ]
+    },
+    "name": {
+      "type": "string",
+      "x-commons-tier": "extended",
+      "x-commons-share": 0.483,
+      "x-commons-providers": 14,
+      "x-commons-spellings": [
+        "title",
+        "name",
+        "displayName",
+        "label"
+      ]
+    },
+    "description": {
+      "type": "string",
+      "x-commons-tier": "extended",
+      "x-commons-share": 0.414,
+      "x-commons-providers": 12,
+      "x-commons-spellings": [
+        "description",
+        "notes",
+        "summary"
+      ]
+    },
+    "attachments": {
+      "type": "array",
+      "x-commons-tier": "extended",
+      "x-commons-share": 0.31,
+      "x-commons-providers": 9,
+      "x-commons-spellings": [
+        "attachments"
+      ]
+    },
+    "publisher_id": {
+      "type": "object",
+      "x-commons-tier": "extended",
+      "x-commons-share": 0.31,
+      "x-commons-providers": 9,
+      "x-commons-spellings": [
+        "organization",
+        "publisher",
+        "owner",
+        "owner_org"
+      ]
+    },
+    "created_at": {
+      "type": "string",
+      "x-commons-tier": "extended",
+      "x-commons-share": 0.276,
+      "x-commons-providers": 8,
+      "x-commons-spellings": [
+        "issued",
+        "created",
+        "createdAt",
+        "metadata_created"
+      ],
+      "format": "date-time"
+    },
+    "data_visible": {
+      "type": "boolean",
+      "x-commons-tier": "extended",
+      "x-commons-share": 0.276,
+      "x-commons-providers": 8,
+      "x-commons-spellings": [
+        "data_visible"
+      ]
+    },
+    "dataset_uid": {
+      "type": "string",
+      "x-commons-tier": "extended",
+      "x-commons-share": 0.276,
+      "x-commons-providers": 8,
+      "x-commons-spellings": [
+        "dataset_uid"
+      ]
+    },
+    "features": {
+      "type": "array",
+      "x-commons-tier": "extended",
+      "x-commons-share": 0.276,
+      "x-commons-providers": 8,
+      "x-commons-spellings": [
+        "features"
+      ]
+    },
+    "fields": {
+      "type": "array",
+      "x-commons-tier": "extended",
+      "x-commons-share": 0.276,
+      "x-commons-providers": 8,
+      "x-commons-spellings": [
+        "fields"
+      ]
+    },
+    "has_records": {
+      "type": "boolean",
+      "x-commons-tier": "extended",
+      "x-commons-share": 0.276,
+      "x-commons-providers": 8,
+      "x-commons-spellings": [
+        "has_records"
+      ]
+    },
+    "keywords": {
+      "type": "array",
+      "x-commons-tier": "extended",
+      "x-commons-share": 0.276,
+      "x-commons-providers": 8,
+      "x-commons-spellings": [
+        "tags",
+        "keyword",
+        "keywords",
+        "theme",
+        "categories",
+        "groups"
+      ]
+    },
+    "metas": {
+      "type": "object",
+      "x-commons-tier": "extended",
+      "x-commons-share": 0.276,
+      "x-commons-providers": 8,
+      "x-commons-spellings": [
+        "metas"
+      ]
+    },
+    "updated_at": {
+      "type": "string",
+      "x-commons-tier": "extended",
+      "x-commons-share": 0.276,
+      "x-commons-providers": 8,
+      "x-commons-spellings": [
+        "modified",
+        "updated",
+        "metadata_modified",
+        "last_updated",
+        "updatedAt"
+      ],
+      "format": "date-time"
+    },
+    "distributions": {
+      "type": "array",
+      "x-commons-tier": "extended",
+      "x-commons-share": 0.241,
+      "x-commons-providers": 7,
+      "x-commons-spellings": [
+        "resources",
+        "distribution",
+        "files",
+        "distributions"
+      ]
+    }
+  },
+  "required": [
+    "id"
+  ],
+  "x-commons": {
+    "context": "open-data-catalogs",
+    "concept": "dataset",
+    "providers": 29,
+    "generated": "2026-11-11",
+    "version": "0.1.0-draft.20261111",
+    "status": "draft"
+  }
+}

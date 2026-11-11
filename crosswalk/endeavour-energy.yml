@@ -1,0 +1,23 @@
+provider: endeavour-energy
+apis_io: https://apis.io/providers/endeavour-energy/
+context: open-data-catalogs
+generated: '2026-11-11'
+concepts:
+  dataset:
+    path_segment:
+    - datasets
+    properties:
+      id: dataset_id
+      attachments: attachments
+      data_visible: data_visible
+      dataset_uid: dataset_uid
+      features: features
+      fields: fields
+      has_records: has_records
+      metas: metas
+    core_coverage: 1.0
+    evidence:
+    - openapi/_original/endeavour-energy-open-data-explore-api-v2-0-openapi.json#GET /catalog/datasets
+    - openapi/_original/endeavour-energy-open-data-explore-api-v2-0-openapi.json#GET /catalog/datasets/{dataset_id}
+    - openapi/_original/endeavour-energy-open-data-explore-api-v2-1-openapi.json#GET /catalog/datasets
+    - openapi/_original/endeavour-energy-open-data-explore-api-v2-1-openapi.json#GET /catalog/datasets/{dataset_id}

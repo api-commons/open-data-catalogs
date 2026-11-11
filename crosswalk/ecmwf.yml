@@ -1,0 +1,13 @@
+provider: ecmwf
+apis_io: https://apis.io/providers/ecmwf/
+context: open-data-catalogs
+generated: '2026-11-11'
+concepts:
+  dataset:
+    path_segment:
+    - datasets
+    properties: {}
+    core_coverage: 0.0
+    evidence:
+    - openapi/_original/ecmwf-data-stores-catalogue-openapi.json#GET /datasets
+    - openapi/_original/ecmwf-data-stores-catalogue-openapi.json#POST /datasets

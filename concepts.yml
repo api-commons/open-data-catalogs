@@ -1,0 +1,63 @@
+context: open-data-catalogs
+name: Open Data Catalogs
+intro: >-
+  The common open-data vocabulary -- the datasets a portal publishes, the distributions (files
+  and APIs) each dataset offers and the publishers responsible for them -- distilled from the
+  APIs that already exist. CKAN's Action API, the most widely installed portal interface, is
+  profiled as a standard of its own in api-commons/open-data; here the dataset is measured
+  across every kind of portal.
+tags: [Open Data, Data Catalog, Government Data, DCAT, CKAN, Open Government, Data Portal]
+
+envelope: [_links, _pagination, _results, data, success, errors, warnings, count, total, page, meta, links,
+           value, results, next, previous, has_more, message, status_code, ids, next_page, previous_page,
+           page_info, cursor, total_count, per_page, total_pages, current_page, object, url, result, help]
+
+common_fields:
+  id: [uuid, guid, object_id, record_id, identifier, name_id, slug, "@id"]
+  created_at: [created, created_date, date_created, create_time, creation_date, created_on, metadata_created, issued, published_at, release_date]
+  updated_at: [updated, updated_date, modified_at, last_modified, date_modified, update_time, modified_date, modified, metadata_modified, last_updated]
+  metadata: [meta_data, custom_fields, custom, attributes, properties, extras]
+  name: [title, display_name, label]
+  description: [notes, summary, abstract, details]
+
+concepts:
+  dataset:
+    segments: [datasets, dataset, package_show, package_search, package_list, packages@action, current_package_list_with_resources, catalog@data, views@data|api]
+    aliases:
+      publisher_id: [publisher, organization, owner_org, organization_id, owner, agency]
+      license: [license_id, license_title, rights]
+      keywords: [tags, keyword, theme, themes, categories, groups]
+      distributions: [resources, distribution, files, downloads]
+      temporal: [temporal_coverage, time_period, date_range]
+      spatial: [spatial_coverage, geography, coverage]
+      contact_point: [maintainer, contact, author, contact_email, maintainer_email]
+  # distribution was measured and dropped: 4 readable providers, no shared property.
+  # publisher was measured and dropped: 6 readable providers, with GTFS transit agencies and
+  # regulatory agencies among them and no shared property.
+
+duplicates:
+  us-bureau-of-labor-statistics: [bls-gov]
+  cdc: [cdc-gov]
+  neso: [national-energy-system-operator]
+  powershop: [cdr-energy]
+
+standards:
+  - standard: dcat-us-1.1
+    concepts: {dataset: [dataset]}
+    defines: {distribution: distribution}
+
+findings:
+  - "A dataset agrees only on an id across 33 portals; its name (48%) and description (41%) fall
+    just short. CKAN portals wrap every response in an untyped result, and portals built on other platforms
+    serve datasets as views, so the dataset that every open-data standard describes is rarely
+    published as a typed resource."
+  - "Measured against DCAT-US 1.1, the standard defines the dataset core and eleven more fields --
+    keywords, publisher, contact point, access level, temporal and spatial coverage -- that no
+    portal in the cohort publishes as a property of the dataset resource."
+decisions:
+  - "CKAN's Action API is profiled as its own standard in api-commons/open-data; this context
+    measures the dataset across every kind of portal, CKAN action paths included."
+  - "Packages, package_show and views beneath a data API are datasets."
+  - "Distributions and publishers were measured and dropped; DCAT-US's distribution is recorded as
+    the shape the standard defines."
+  - "Duplicates merged: BLS, CDC, NESO, Powershop."

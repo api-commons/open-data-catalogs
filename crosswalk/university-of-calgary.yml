@@ -1,0 +1,13 @@
+provider: university-of-calgary
+apis_io: https://apis.io/providers/university-of-calgary/
+context: open-data-catalogs
+generated: '2026-11-11'
+concepts:
+  dataset:
+    path_segment:
+    - datasets
+    properties:
+      name: name
+    core_coverage: 0.0
+    evidence:
+    - openapi/_original/university-of-calgary-srs-api.yaml#GET /api/v1/data_distribution/datasets

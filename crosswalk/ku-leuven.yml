@@ -1,0 +1,17 @@
+provider: ku-leuven
+apis_io: https://apis.io/providers/ku-leuven/
+context: open-data-catalogs
+generated: '2026-11-11'
+concepts:
+  dataset:
+    path_segment:
+    - datasets
+    - dataset
+    properties: {}
+    core_coverage: null
+    evidence:
+    - openapi/_original/ku-leuven-rdr.yaml#DELETE /admin/index/datasets/{id}
+    - openapi/_original/ku-leuven-rdr.yaml#DELETE /datasets/{id}
+    - openapi/_original/ku-leuven-rdr.yaml#GET /access/dataset/{id}
+    - openapi/_original/ku-leuven-rdr.yaml#GET /admin/index/dataset
+    - openapi/_original/ku-leuven-rdr.yaml#GET /admin/validate/dataset/{id}

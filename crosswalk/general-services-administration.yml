@@ -1,0 +1,16 @@
+provider: general-services-administration
+apis_io: https://apis.io/providers/general-services-administration/
+context: open-data-catalogs
+generated: '2026-11-11'
+concepts:
+  dataset:
+    path_segment:
+    - package_list
+    - package_search
+    - package_show
+    properties: {}
+    core_coverage: null
+    evidence:
+    - openapi/_original/general-services-administration-datagov-ckan-openapi.yaml#GET /action/package_list
+    - openapi/_original/general-services-administration-datagov-ckan-openapi.yaml#GET /action/package_search
+    - openapi/_original/general-services-administration-datagov-ckan-openapi.yaml#GET /action/package_show

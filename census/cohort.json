@@ -1,0 +1,2505 @@
+[
+ {
+  "slug": "2s-io",
+  "specs": [
+   "openapi/_original/2s-io-openapi.json"
+  ]
+ },
+ {
+  "slug": "aalto",
+  "specs": [
+   "openapi/_original/aalto-acris-research-api-openapi.json",
+   "openapi/_original/aalto-facilities-api-openapi.json",
+   "openapi/_original/aalto-openapi.json",
+   "openapi/_original/aalto-people-profile-api-openapi.json",
+   "openapi/_original/aalto-projects-costcenters-api-openapi.json"
+  ]
+ },
+ {
+  "slug": "acma",
+  "specs": [
+   "openapi/_original/acma-spectrum-licensing-openapi.yml"
+  ]
+ },
+ {
+  "slug": "administrative-office-of-the-u-s-courts",
+  "specs": [
+   "openapi/_original/pacer-authentication-api-openapi.yml",
+   "openapi/_original/pacer-case-locator-pcl-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "aer",
+  "specs": [
+   "openapi/_original/cdr-energy-api-openapi.json",
+   "openapi/_original/cds-common-api-openapi.json"
+  ]
+ },
+ {
+  "slug": "aikstockdata",
+  "specs": [
+   "openapi/_original/aikstockdata-openapi.json",
+   "openapi/_original/aikstockdata-openapi_2.json"
+  ]
+ },
+ {
+  "slug": "air-quality-programmatic-apis",
+  "specs": [
+   "openapi/_original/air-quality-programmatic-apis-openapi.yml"
+  ]
+ },
+ {
+  "slug": "alation",
+  "specs": [
+   "openapi/_original/alation-data-catalog-openapi.yaml",
+   "openapi/_original/alation-governance-openapi.yaml",
+   "openapi/_original/alation-lineage-openapi.yaml",
+   "openapi/_original/alation-search-openapi.yaml"
+  ]
+ },
+ {
+  "slug": "amazon-datazone",
+  "specs": [
+   "openapi/_original/amazon-datazone-openapi.yml"
+  ]
+ },
+ {
+  "slug": "amazon-glue",
+  "specs": [
+   "openapi/_original/amazon-glue-openapi.yml"
+  ]
+ },
+ {
+  "slug": "api-data-gov",
+  "specs": [
+   "openapi/_original/catalog.data.gov-openapi.json",
+   "openapi/_original/harvest.data.gov-openapi.json"
+  ]
+ },
+ {
+  "slug": "arakel",
+  "specs": [
+   "openapi/_original/arakel-openapi.json"
+  ]
+ },
+ {
+  "slug": "art-institute-of-chicago",
+  "specs": [
+   "openapi/_original/art-institute-of-chicago-openapi.yml"
+  ]
+ },
+ {
+  "slug": "australian-bureau-of-statistics",
+  "specs": [
+   "openapi/_original/DataAPI.openapi.yaml",
+   "openapi/_original/indicator.openapi.yaml"
+  ]
+ },
+ {
+  "slug": "aviationweather",
+  "specs": [
+   "openapi/_original/aviationweather-openapi.yml"
+  ]
+ },
+ {
+  "slug": "aws-glue",
+  "specs": [
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-batchcreatepartition-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-batchdeleteconnection-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-batchdeletepartition-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-batchdeletetable-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-batchdeletetableversion-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-batchgetblueprints-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-batchgetcrawlers-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-batchgetcustomentitytypes-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-batchgetdataqualityresult-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-batchgetdevendpoints-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-batchgetjobs-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-batchgetpartition-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-batchgettriggers-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-batchgetworkflows-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-batchstopjobrun-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-batchupdatepartition-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-canceldataqualityrulerecommendationrun-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-canceldataqualityrulesetevaluationrun-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-cancelmltaskrun-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-cancelstatement-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-checkschemaversionvalidity-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-createblueprint-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-createclassifier-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-createconnection-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-createcrawler-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-createcustomentitytype-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-createdatabase-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-createdataqualityruleset-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-createdevendpoint-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-createjob-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-createmltransform-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-createpartition-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-createpartitionindex-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-createregistry-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-createschema-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-createscript-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-createsecurityconfiguration-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-createsession-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-createtable-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-createtrigger-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-createuserdefinedfunction-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-createworkflow-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-deleteblueprint-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-deleteclassifier-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-deletecolumnstatisticsforpartition-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-deletecolumnstatisticsfortable-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-deleteconnection-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-deletecrawler-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-deletecustomentitytype-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-deletedatabase-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-deletedataqualityruleset-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-deletedevendpoint-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-deletejob-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-deletemltransform-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-deletepartition-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-deletepartitionindex-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-deleteregistry-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-deleteresourcepolicy-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-deleteschema-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-deleteschemaversions-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-deletesecurityconfiguration-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-deletesession-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-deletetable-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-deletetableversion-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-deletetrigger-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-deleteuserdefinedfunction-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-deleteworkflow-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getblueprint-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getblueprintrun-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getblueprintruns-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getcatalogimportstatus-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getclassifier-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getclassifiers-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getcolumnstatisticsforpartition-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getcolumnstatisticsfortable-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getconnection-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getconnections-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getcrawler-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getcrawlermetrics-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getcrawlers-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getcustomentitytype-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getdatabase-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getdatabases-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getdatacatalogencryptionsettings-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getdataflowgraph-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getdataqualityresult-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getdataqualityrulerecommendationrun-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getdataqualityruleset-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getdataqualityrulesetevaluationrun-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getdevendpoint-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getdevendpoints-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getjob-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getjobbookmark-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getjobrun-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getjobruns-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getjobs-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getmapping-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getmltaskrun-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getmltaskruns-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getmltransform-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getmltransforms-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getpartition-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getpartitionindexes-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getpartitions-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getplan-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getregistry-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getresourcepolicies-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getresourcepolicy-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getschema-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getschemabydefinition-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getschemaversion-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getschemaversionsdiff-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getsecurityconfiguration-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getsecurityconfigurations-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getsession-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getstatement-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-gettable-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-gettables-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-gettableversion-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-gettableversions-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-gettags-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-gettrigger-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-gettriggers-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getunfilteredpartitionmetadata-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getunfilteredpartitionsmetadata-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getunfilteredtablemetadata-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getuserdefinedfunction-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getuserdefinedfunctions-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getworkflow-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getworkflowrun-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getworkflowrunproperties-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-getworkflowruns-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-importcatalogtoglue-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-listblueprints-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-listcrawlers-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-listcrawls-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-listcustomentitytypes-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-listdataqualityresults-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-listdataqualityrulerecommendationruns-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-listdataqualityrulesetevaluationruns-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-listdataqualityrulesets-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-listdevendpoints-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-listjobs-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-listmltransforms-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-listregistries-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-listschemas-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-listschemaversions-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-listsessions-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-liststatements-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-listtriggers-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-listworkflows-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-putdatacatalogencryptionsettings-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-putresourcepolicy-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-putschemaversionmetadata-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-putworkflowrunproperties-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-queryschemaversionmetadata-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-registerschemaversion-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-removeschemaversionmetadata-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-resetjobbookmark-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-resumeworkflowrun-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-runstatement-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-searchtables-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-startblueprintrun-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-startcrawler-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-startcrawlerschedule-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-startdataqualityrulerecommendationrun-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-startdataqualityrulesetevaluationrun-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-startexportlabelstaskrun-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-startimportlabelstaskrun-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-startjobrun-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-startmlevaluationtaskrun-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-startmllabelingsetgenerationtaskrun-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-starttrigger-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-startworkflowrun-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-stopcrawler-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-stopcrawlerschedule-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-stopsession-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-stoptrigger-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-stopworkflowrun-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-tagresource-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-untagresource-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-updateblueprint-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-updateclassifier-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-updatecolumnstatisticsforpartition-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-updatecolumnstatisticsfortable-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-updateconnection-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-updatecrawler-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-updatecrawlerschedule-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-updatedatabase-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-updatedataqualityruleset-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-updatedevendpoint-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-updatejob-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-updatejobfromsourcecontrol-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-updatemltransform-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-updatepartition-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-updateregistry-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-updateschema-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-updatesourcecontrolfromjob-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-updatetable-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-updatetrigger-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-updateuserdefinedfunction-api-openapi.yml",
+   "openapi/_original/amazon-glue-x-amz-target-awsglue-updateworkflow-api-openapi.yml",
+   "openapi/_original/aws-glue-openapi.yml"
+  ]
+ },
+ {
+  "slug": "bank-of-ireland-uk",
+  "specs": [
+   "openapi/_original/bank-of-ireland-uk-account-info-openapi.yaml",
+   "openapi/_original/bank-of-ireland-uk-confirmation-funds-openapi.yaml",
+   "openapi/_original/bank-of-ireland-uk-open-data-openapi.json",
+   "openapi/_original/bank-of-ireland-uk-payment-initiation-openapi.yaml"
+  ]
+ },
+ {
+  "slug": "bank-of-scotland",
+  "specs": [
+   "openapi/_original/obie-account-info-openapi.yaml",
+   "openapi/_original/obie-confirmation-funds-openapi.yaml",
+   "openapi/_original/obie-opendata-swagger.json",
+   "openapi/_original/obie-payment-initiation-openapi.yaml"
+  ]
+ },
+ {
+  "slug": "barclays",
+  "specs": [
+   "openapi/_original/barclays-account-and-transactions-openapi.json",
+   "openapi/_original/barclays-account-management-openapi.json",
+   "openapi/_original/barclays-accounts-openapi.json",
+   "openapi/_original/barclays-atm-locator-openapi.json",
+   "openapi/_original/barclays-authentication-openapi.json",
+   "openapi/_original/barclays-bank-ireland-account-information-openapi.json",
+   "openapi/_original/barclays-bank-ireland-confirmation-of-funds-openapi.json",
+   "openapi/_original/barclays-bank-ireland-payment-initiation-openapi.json",
+   "openapi/_original/barclays-benefits-redemption-openapi.json",
+   "openapi/_original/barclays-branch-locator-openapi.json",
+   "openapi/_original/barclays-card-application-openapi.json",
+   "openapi/_original/barclays-card-control-openapi.json",
+   "openapi/_original/barclays-confirmation-of-funds-openapi.json",
+   "openapi/_original/barclays-cryptography-key-exchange-openapi.json",
+   "openapi/_original/barclays-digital-wallet-openapi.json",
+   "openapi/_original/barclays-dynamic-client-registration-openapi.json",
+   "openapi/_original/barclays-event-notification-openapi.json",
+   "openapi/_original/barclays-fca-service-metrics-openapi.json",
+   "openapi/_original/barclays-payment-initiation-openapi.json",
+   "openapi/_original/barclays-payments-openapi.json",
+   "openapi/_original/barclays-product-details-openapi.json",
+   "openapi/_original/barclays-rewards-earn-openapi.json",
+   "openapi/_original/barclays-rewards-loyalty-sync-openapi.json",
+   "openapi/_original/barclays-statements-retriever-openapi.json",
+   "openapi/_original/barclays-transactions-openapi.json",
+   "openapi/_original/barclays-variable-recurring-payment-openapi.json"
+  ]
+ },
+ {
+  "slug": "bargo-congress-trades-api",
+  "specs": [
+   "openapi/_original/bargo-congress-trades-api-congress-trades-openapi.yml",
+   "openapi/_original/bargo-congress-trades-api-openapi.json"
+  ]
+ },
+ {
+  "slug": "bettip-draws-api",
+  "specs": [
+   "openapi/_original/bettip-draws-api-openapi.json"
+  ]
+ },
+ {
+  "slug": "bigeye",
+  "specs": [
+   "openapi/_original/bigeye-metadata-openapi.json",
+   "openapi/_original/bigeye-observability-openapi.json",
+   "openapi/_original/bigeye-sensitivity-openapi.json"
+  ]
+ },
+ {
+  "slug": "bigid",
+  "specs": [
+   "openapi/_original/bigid-cluster-analysis-api-openapi.yml",
+   "openapi/_original/bigid-data-catalog-api-openapi.yml",
+   "openapi/_original/bigid-data-posture-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "bis",
+  "specs": [
+   "openapi/_original/bis-stats-api.yaml"
+  ]
+ },
+ {
+  "slug": "bls-gov",
+  "specs": [
+   "openapi/_original/bls-public-data-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "boycott-israeli-consumer-goods-dataset",
+  "specs": [
+   "openapi/_original/boycott-israeli-consumer-goods-dataset-openapi.yml"
+  ]
+ },
+ {
+  "slug": "british-columbia-data-catalogue",
+  "specs": [
+   "openapi/_original/british-columbia-data-catalogue-openapi.yml"
+  ]
+ },
+ {
+  "slug": "bureau-of-alcohol-tobacco-firearms-and-explosives-atf-",
+  "specs": [
+   "openapi/_original/bureau-of-alcohol-tobacco-firearms-and-explosives-atf--eregulations-openapi.yml"
+  ]
+ },
+ {
+  "slug": "bureau-of-land-management",
+  "specs": [
+   "openapi/_original/bureau-of-land-management-gbp-hub-search-openapi.json"
+  ]
+ },
+ {
+  "slug": "bureau-of-transportation-statistics",
+  "specs": [
+   "openapi/_original/bureau-of-transportation-statistics-geodata-search-openapi.json",
+   "openapi/_original/bureau-of-transportation-statistics-openapi.yml"
+  ]
+ },
+ {
+  "slug": "california-attorney-general",
+  "specs": [
+   "openapi/_original/california-attorney-general-openjustice-jsonapi-openapi.yml"
+  ]
+ },
+ {
+  "slug": "cancer-gov",
+  "specs": [
+   "openapi/_original/cancer-gov-best-bets-openapi.json",
+   "openapi/_original/cancer-gov-best-bets-openapi.yml",
+   "openapi/_original/cancer-gov-drug-dictionary-openapi.json",
+   "openapi/_original/cancer-gov-drug-dictionary-openapi.yml",
+   "openapi/_original/cancer-gov-evs-openapi.json",
+   "openapi/_original/cancer-gov-evs-openapi.yml",
+   "openapi/_original/cancer-gov-glossary-openapi.json",
+   "openapi/_original/cancer-gov-glossary-openapi.yml",
+   "openapi/_original/cancer-gov-modac-openapi.json",
+   "openapi/_original/cancer-gov-modac-openapi.yml",
+   "openapi/_original/cancer-gov-r4r-openapi.json",
+   "openapi/_original/cancer-gov-r4r-openapi.yml",
+   "openapi/_original/cancer-gov-seer-openapi.json",
+   "openapi/_original/cancer-gov-seer-openapi.yml",
+   "openapi/_original/cancer-gov-sitewide-search-openapi.json",
+   "openapi/_original/cancer-gov-sitewide-search-openapi.yml"
+  ]
+ },
+ {
+  "slug": "cardiff",
+  "specs": [
+   "openapi/_original/cardiff-courses.yaml",
+   "openapi/_original/cardiff-echo.yaml",
+   "openapi/_original/cardiff-lookups.yaml",
+   "openapi/_original/cardiff-modules.yaml",
+   "openapi/_original/cardiff-publications.yaml"
+  ]
+ },
+ {
+  "slug": "cdc",
+  "specs": [
+   "openapi/_original/cdc-app-notifications-api-openapi.yml",
+   "openapi/_original/cdc-code-systems-api-openapi.yml",
+   "openapi/_original/cdc-conditions-api-openapi.yml",
+   "openapi/_original/cdc-configurations-api-openapi.yml",
+   "openapi/_original/cdc-events-api-openapi.yml",
+   "openapi/_original/cdc-query-api-openapi.yml",
+   "openapi/_original/cdc-query-connector-api-openapi-3-0-api-openapi.yml",
+   "openapi/_original/cdc-releases-api-openapi.yml",
+   "openapi/_original/cdc-simulator-api-openapi.yml",
+   "openapi/_original/cdc-user-api-openapi.yml",
+   "openapi/_original/dibbs-ecr-refiner-openapi.json",
+   "openapi/_original/dibbs-query-connector-openapi.yaml"
+  ]
+ },
+ {
+  "slug": "cdc-gov",
+  "specs": [
+   "openapi/_original/cdc-app-notifications-api-openapi.yml",
+   "openapi/_original/cdc-code-systems-api-openapi.yml",
+   "openapi/_original/cdc-conditions-api-openapi.yml",
+   "openapi/_original/cdc-configurations-api-openapi.yml",
+   "openapi/_original/cdc-events-api-openapi.yml",
+   "openapi/_original/cdc-query-api-openapi.yml",
+   "openapi/_original/cdc-query-connector-api-openapi-3-0-api-openapi.yml",
+   "openapi/_original/cdc-releases-api-openapi.yml",
+   "openapi/_original/cdc-simulator-api-openapi.yml",
+   "openapi/_original/cdc-user-api-openapi.yml",
+   "openapi/_original/dibbs-ecr-refiner-openapi.json",
+   "openapi/_original/dibbs-query-connector-openapi.yaml"
+  ]
+ },
+ {
+  "slug": "cdr-energy",
+  "specs": [
+   "openapi/_original/cdr-admin-openapi.json",
+   "openapi/_original/cdr-common-openapi.json",
+   "openapi/_original/cdr-dcr-openapi.json",
+   "openapi/_original/cdr-energy-openapi.json",
+   "openapi/_original/cdr-energy-sdh-openapi.json",
+   "openapi/_original/cdr-register-openapi.json"
+  ]
+ },
+ {
+  "slug": "centers-for-disease-control-and-prevention",
+  "specs": [
+   "openapi/_original/centers-for-disease-control-and-prevention-dibbs-ecr-refiner-openapi.json",
+   "openapi/_original/centers-for-disease-control-and-prevention-dibbs-query-connector-openapi.yaml",
+   "openapi/_original/centers-for-disease-control-and-prevention-openapi.yml"
+  ]
+ },
+ {
+  "slug": "cfpb",
+  "specs": [
+   "openapi/_original/cfpb-consumer-complaint-database-api-openapi.yml",
+   "openapi/_original/cfpb-hmda-data-browser-api-openapi.yml",
+   "openapi/_original/cfpb-hmda-filing-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "chalmers-university-of-technology",
+  "specs": [
+   "openapi/_original/chalmers-university-of-technology-research-api.yaml"
+  ]
+ },
+ {
+  "slug": "charitysense-com",
+  "specs": [
+   "openapi/_original/charitysense-com-openapi-original.json",
+   "openapi/_original/charitysense-com-openapi-original.yaml",
+   "openapi/_original/charitysense-com-openapi.yml"
+  ]
+ },
+ {
+  "slug": "chicago-transit-authority",
+  "specs": [
+   "openapi/_original/cta-bus-tracker-openapi.yml",
+   "openapi/_original/cta-train-tracker-openapi.yml"
+  ]
+ },
+ {
+  "slug": "childrens-hospital-of-philadelphia",
+  "specs": [
+   "openapi/_original/chop-fhir-r4-openapi.yml"
+  ]
+ },
+ {
+  "slug": "clinical-trials-gov",
+  "specs": [
+   "openapi/_original/clinical-trials-gov-openapi.yml"
+  ]
+ },
+ {
+  "slug": "cms-gov",
+  "specs": [
+   "openapi/_original/cms-1-export-api-openapi.yml",
+   "openapi/_original/cms-2-status-api-openapi.yml",
+   "openapi/_original/cms-3-download-api-openapi.yml",
+   "openapi/_original/cms-4-capabilities-api-openapi.yml",
+   "openapi/_original/cms-admin-api-api-openapi.yml",
+   "openapi/_original/cms-api-reference-api-openapi.yml",
+   "openapi/_original/cms-attribution-api-openapi.yml",
+   "openapi/_original/cms-auth-api-openapi.yml",
+   "openapi/_original/cms-bulk-data-api-openapi.yml",
+   "openapi/_original/cms-capabilities-api-openapi.yml",
+   "openapi/_original/cms-capability-api-openapi.yml",
+   "openapi/_original/cms-code-search-api-openapi.yml",
+   "openapi/_original/cms-cost-search-api-openapi.yml",
+   "openapi/_original/cms-coverage-api-openapi.yml",
+   "openapi/_original/cms-data-api-openapi.yml",
+   "openapi/_original/cms-download-api-openapi.yml",
+   "openapi/_original/cms-enrollments-api-openapi.yml",
+   "openapi/_original/cms-explanationofbenefit-api-openapi.yml",
+   "openapi/_original/cms-export-api-openapi.yml",
+   "openapi/_original/cms-geography-api-openapi.yml",
+   "openapi/_original/cms-gov-ab2d-openapi.yml",
+   "openapi/_original/cms-gov-bcda-openapi.yml",
+   "openapi/_original/cms-gov-bfd-openapi.yml",
+   "openapi/_original/cms-gov-blue-button-2-openapi.yml",
+   "openapi/_original/cms-gov-dpc-openapi.yml",
+   "openapi/_original/cms-gov-marketplace-openapi.yml",
+   "openapi/_original/cms-gov-mcd-openapi.yml",
+   "openapi/_original/cms-gov-open-data-openapi.yml",
+   "openapi/_original/cms-gov-provider-data-openapi.yml",
+   "openapi/_original/cms-gov-qpp-openapi.yml",
+   "openapi/_original/cms-group-api-openapi.yml",
+   "openapi/_original/cms-health-api-api-openapi.yml",
+   "openapi/_original/cms-households-eligibility-api-openapi.yml",
+   "openapi/_original/cms-insurance-issuers-api-openapi.yml",
+   "openapi/_original/cms-insurance-plans-api-openapi.yml",
+   "openapi/_original/cms-job-api-openapi.yml",
+   "openapi/_original/cms-maintenance-mode-api-api-openapi.yml",
+   "openapi/_original/cms-metadata-api-openapi.yml",
+   "openapi/_original/cms-patient-api-openapi.yml",
+   "openapi/_original/cms-plans-api-openapi.yml",
+   "openapi/_original/cms-provider-drug-coverage-api-openapi.yml",
+   "openapi/_original/cms-status-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "coalesce",
+  "specs": [
+   "openapi/_original/coalesce-openapi.json"
+  ]
+ },
+ {
+  "slug": "collate",
+  "specs": [
+   "openapi/_original/collate-openapi.json"
+  ]
+ },
+ {
+  "slug": "columbia",
+  "specs": [
+   "openapi/_original/columbia-library-hours-openapi.yml"
+  ]
+ },
+ {
+  "slug": "commodity-futures-trading-commission",
+  "specs": [
+   "openapi/_original/cftc-cot-openapi.yml"
+  ]
+ },
+ {
+  "slug": "companies-house",
+  "specs": [
+   "openapi/_original/companies-house-openapi.json"
+  ]
+ },
+ {
+  "slug": "comunicate-top-api",
+  "specs": [
+   "openapi/_original/comunicate-top-api-openapi-original.json"
+  ]
+ },
+ {
+  "slug": "conceptnet",
+  "specs": [
+   "openapi/_original/openapi.yml"
+  ]
+ },
+ {
+  "slug": "congress-gov",
+  "specs": [
+   "openapi/_original/congress-gov-openapi.yml"
+  ]
+ },
+ {
+  "slug": "consumer-financial-protection-bureau",
+  "specs": [
+   "openapi/_original/cfpb-ccdb-openapi.yml",
+   "openapi/_original/cfpb-hmda-data-browser-openapi.yml",
+   "openapi/_original/cfpb-hmda-institutions-openapi.yml"
+  ]
+ },
+ {
+  "slug": "consumer-product-safety-commission",
+  "specs": [
+   "openapi/_original/cpsc-recalls-openapi.yml"
+  ]
+ },
+ {
+  "slug": "country-io",
+  "specs": [
+   "openapi/_original/country-io-data-openapi.yml"
+  ]
+ },
+ {
+  "slug": "court-listener",
+  "specs": [
+   "openapi/_original/court-listener-openapi.json"
+  ]
+ },
+ {
+  "slug": "csiro",
+  "specs": [
+   "openapi/_original/csiro-dap-api-v2-openapi.json",
+   "openapi/_original/csiro-dap-api-v2-openapi.yml",
+   "openapi/_original/csiro-dap-orcid-v1-openapi.json",
+   "openapi/_original/csiro-dap-orcid-v1-openapi.yml",
+   "openapi/_original/csiro-dap-ws-v2-openapi.json",
+   "openapi/_original/csiro-dap-ws-v2-openapi.yml"
+  ]
+ },
+ {
+  "slug": "curatorsearch",
+  "specs": [
+   "openapi/_original/curatorsearch-openapi.json"
+  ]
+ },
+ {
+  "slug": "danish-meteorological-institutes",
+  "specs": [
+   "openapi/_original/dmi-open-data-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "dartmouth",
+  "specs": [
+   "openapi/_original/dartmouth-class-search-api.yaml"
+  ]
+ },
+ {
+  "slug": "data-analysis-tools-bureau-of-justice-statistics",
+  "specs": [
+   "openapi/_original/bjs-ncvs-api-openapi.yml",
+   "openapi/_original/bjs-nibrs-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "data-world",
+  "specs": [
+   "openapi/_original/openapi.json"
+  ]
+ },
+ {
+  "slug": "databricks",
+  "specs": [
+   "openapi/_original/databricks-openapi.yml"
+  ]
+ },
+ {
+  "slug": "datahub",
+  "specs": [
+   "openapi/_original/datahub-openapi-openapi.yml"
+  ]
+ },
+ {
+  "slug": "dbnomics",
+  "specs": [
+   "openapi/_original/dbnomics-openapi.yml"
+  ]
+ },
+ {
+  "slug": "department-of-education",
+  "specs": [
+   "openapi/_original/department-of-education-openapi.yml"
+  ]
+ },
+ {
+  "slug": "dietlyapi",
+  "specs": [
+   "openapi/_original/dietlyapi-openapi.json"
+  ]
+ },
+ {
+  "slug": "discgolfapi",
+  "specs": [
+   "openapi/_original/discgolfapi-openapi.yml"
+  ]
+ },
+ {
+  "slug": "disease-sh",
+  "specs": [
+   "openapi/_original/openapi.json"
+  ]
+ },
+ {
+  "slug": "dlr",
+  "specs": [
+   "openapi/_original/eoc-stac-api.json"
+  ]
+ },
+ {
+  "slug": "dot",
+  "specs": [
+   "openapi/_original/nhtsa-datasets-api.json"
+  ]
+ },
+ {
+  "slug": "dpla",
+  "specs": [
+   "openapi/_original/openapi.yml"
+  ]
+ },
+ {
+  "slug": "ecfr",
+  "specs": [
+   "openapi/_original/ecfr-openapi.json"
+  ]
+ },
+ {
+  "slug": "ecmwf",
+  "specs": [
+   "openapi/_original/ecmwf-data-stores-catalogue-openapi.json",
+   "openapi/_original/ecmwf-data-stores-processing-openapi.json",
+   "openapi/_original/ecmwf-data-stores-profiles-openapi.json"
+  ]
+ },
+ {
+  "slug": "eia",
+  "specs": [
+   "openapi/_original/eia-api-v2-openapi.yml"
+  ]
+ },
+ {
+  "slug": "election-assistance-commission",
+  "specs": [
+   "openapi/_original/election-assistance-commission-jsonapi-openapi.yml"
+  ]
+ },
+ {
+  "slug": "electricity-north-west",
+  "specs": [
+   "openapi/_original/electricity-north-west-explore-api-v2-0-openapi.json",
+   "openapi/_original/electricity-north-west-explore-api-v2-1-openapi.json"
+  ]
+ },
+ {
+  "slug": "elhub",
+  "specs": [
+   "openapi/_original/elhub-access-api-openapi.yaml",
+   "openapi/_original/elhub-data-export-api-openapi.yaml",
+   "openapi/_original/elhub-energy-data-api-openapi.yaml",
+   "openapi/_original/elhub-flex-information-system-auth-api-openapi.json",
+   "openapi/_original/elhub-flex-information-system-grid-api-openapi.json",
+   "openapi/_original/elhub-flex-information-system-main-api-openapi.json",
+   "openapi/_original/elhub-market-data-contracts-api-openapi.yaml",
+   "openapi/_original/elhub-openapi-api-base-openapi.yml",
+   "openapi/_original/elhub-openapi-api-no-default-openapi.json",
+   "openapi/_original/elhub-openapi-auth-openapi.yml",
+   "openapi/_original/elhub-openapi-grid-base-openapi.yml",
+   "openapi/_original/elhub-openapi-openapi.json",
+   "openapi/_original/elhub-openapi-openapi.yml",
+   "openapi/_original/elhub-postgrest-openapi-3-0-openapi.json",
+   "openapi/_original/elhub-postgrest-swagger-2-0-openapi.json",
+   "openapi/_original/elhub-settlement-virtual-calculations-api-openapi.yaml"
+  ]
+ },
+ {
+  "slug": "endeavour-energy",
+  "specs": [
+   "openapi/_original/endeavour-energy-open-data-explore-api-v2-0-openapi.json",
+   "openapi/_original/endeavour-energy-open-data-explore-api-v2-1-openapi.json"
+  ]
+ },
+ {
+  "slug": "energy-information-administration",
+  "specs": [
+   "openapi/_original/energy-information-administration-open-data-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "energy-queensland",
+  "specs": [
+   "openapi/_original/energy-queensland-cds-common-openapi.yml",
+   "openapi/_original/energy-queensland-cds-energy-openapi.yml"
+  ]
+ },
+ {
+  "slug": "energy-utilities",
+  "specs": [
+   "openapi/_original/energy-utilities-openapi.yml"
+  ]
+ },
+ {
+  "slug": "entur",
+  "specs": [
+   "openapi/_original/entur-clearing-openapi.json",
+   "openapi/_original/entur-clearing-openapi.yml",
+   "openapi/_original/entur-clearing-reports-openapi.json",
+   "openapi/_original/entur-clearing-reports-openapi.yml",
+   "openapi/_original/entur-consents-openapi.json",
+   "openapi/_original/entur-consents-openapi.yml",
+   "openapi/_original/entur-customers-openapi.json",
+   "openapi/_original/entur-customers-openapi.yml",
+   "openapi/_original/entur-geocoder-openapi.json",
+   "openapi/_original/entur-geocoder-openapi.yml",
+   "openapi/_original/entur-inventory-openapi.json",
+   "openapi/_original/entur-inventory-openapi.yml",
+   "openapi/_original/entur-model-openapi.yml",
+   "openapi/_original/entur-offers-partner-openapi.json",
+   "openapi/_original/entur-offers-partner-openapi.yml",
+   "openapi/_original/entur-omsa-openapi.json",
+   "openapi/_original/entur-omsa-openapi.yml",
+   "openapi/_original/entur-openapi-good-openapi.json",
+   "openapi/_original/entur-openapi-openapi.yml",
+   "openapi/_original/entur-openapi-warn-openapi.yml",
+   "openapi/_original/entur-order-note-partner-openapi.json",
+   "openapi/_original/entur-order-note-partner-openapi.yml",
+   "openapi/_original/entur-order-partner-openapi.json",
+   "openapi/_original/entur-order-partner-openapi.yml",
+   "openapi/_original/entur-payment-partner-openapi.json",
+   "openapi/_original/entur-payment-partner-openapi.yml",
+   "openapi/_original/entur-personalisation-client-openapi.json",
+   "openapi/_original/entur-personalisation-client-openapi.yml",
+   "openapi/_original/entur-personalisation-privacy-openapi.json",
+   "openapi/_original/entur-personalisation-privacy-openapi.yml",
+   "openapi/_original/entur-personnel-tickets-openapi.json",
+   "openapi/_original/entur-personnel-tickets-openapi.yml",
+   "openapi/_original/entur-prdudisapi-openapi.json",
+   "openapi/_original/entur-prdudisapi-openapi.yml",
+   "openapi/_original/entur-pricing-api-openapi.json",
+   "openapi/_original/entur-product-parameters-api-openapi.json",
+   "openapi/_original/entur-products-api-openapi.json",
+   "openapi/_original/entur-products-openapi.json",
+   "openapi/_original/entur-products-openapi.yml",
+   "openapi/_original/entur-raw-timetable-data-openapi.json",
+   "openapi/_original/entur-raw-timetable-data-openapi.yml",
+   "openapi/_original/entur-receipt-partner-openapi.json",
+   "openapi/_original/entur-receipt-partner-openapi.yml",
+   "openapi/_original/entur-refund-partner-openapi.json",
+   "openapi/_original/entur-refund-partner-openapi.yml",
+   "openapi/_original/entur-reserve-offers-partner-openapi.json",
+   "openapi/_original/entur-reserve-offers-partner-openapi.yml",
+   "openapi/_original/entur-seating-manager-openapi.json",
+   "openapi/_original/entur-seating-manager-openapi.yml",
+   "openapi/_original/entur-seatingservices-openapi.json",
+   "openapi/_original/entur-seatingservices-openapi.yml",
+   "openapi/_original/entur-shared-mobility-openapi.json",
+   "openapi/_original/entur-shared-mobility-openapi.yml",
+   "openapi/_original/entur-skoleskyss-openapi.json",
+   "openapi/_original/entur-skoleskyss-openapi.yml",
+   "openapi/_original/entur-stop-place-v1-read-openapi.json",
+   "openapi/_original/entur-stop-place-v1-read-openapi.yml",
+   "openapi/_original/entur-third-party-product-partner-openapi.json",
+   "openapi/_original/entur-third-party-product-partner-openapi.yml",
+   "openapi/_original/entur-ticket-distribution-partner-openapi.json",
+   "openapi/_original/entur-ticket-distribution-partner-openapi.yml",
+   "openapi/_original/entur-timetable-delivery-status-openapi.json",
+   "openapi/_original/entur-timetable-delivery-status-openapi.yml",
+   "openapi/_original/entur-timetable-import-info-openapi.json",
+   "openapi/_original/entur-timetable-import-info-openapi.yml",
+   "openapi/_original/entur-timetable-management-openapi.json",
+   "openapi/_original/entur-timetable-management-openapi.yml"
+  ]
+ },
+ {
+  "slug": "environmental-protection-agency",
+  "specs": [
+   "openapi/_original/environmental-protection-agency-openapi.yml"
+  ]
+ },
+ {
+  "slug": "epa",
+  "specs": [
+   "openapi/_original/aqs-openapi.yml",
+   "openapi/_original/cam-account-openapi.json",
+   "openapi/_original/cam-camd-services-openapi.json",
+   "openapi/_original/cam-emissions-openapi.json",
+   "openapi/_original/cam-facilities-openapi.json",
+   "openapi/_original/cam-master-data-openapi.json",
+   "openapi/_original/cam-monitor-plan-openapi.json",
+   "openapi/_original/cam-qa-cert-openapi.json",
+   "openapi/_original/cam-streaming-openapi.json",
+   "openapi/_original/cip-service-openapi.yml",
+   "openapi/_original/csb-rebate-openapi.json",
+   "openapi/_original/echo-air-openapi.json",
+   "openapi/_original/echo-all-openapi.json",
+   "openapi/_original/echo-case-openapi.json",
+   "openapi/_original/echo-cwa-openapi.json",
+   "openapi/_original/echo-dfr-openapi.json",
+   "openapi/_original/echo-effluent-openapi.json",
+   "openapi/_original/echo-rcra-openapi.json",
+   "openapi/_original/echo-sdw-openapi.json",
+   "openapi/_original/elg-search-openapi.json",
+   "openapi/_original/envirofacts-openapi.yml",
+   "openapi/_original/mywaterway-openapi.json"
+  ]
+ },
+ {
+  "slug": "equinor",
+  "specs": [
+   "openapi/_original/equinor-alarm-events-apim-developer-data.json",
+   "openapi/_original/equinor-alarm-events-apim-export.json",
+   "openapi/_original/equinor-alarm-events-openapi.yml",
+   "openapi/_original/equinor-bluebook-apim-developer-data.json",
+   "openapi/_original/equinor-bluebook-apim-export.json",
+   "openapi/_original/equinor-bluebook-openapi.yml",
+   "openapi/_original/equinor-ims-export-subscriptions-apim-developer-data.json",
+   "openapi/_original/equinor-ims-export-subscriptions-apim-export.json",
+   "openapi/_original/equinor-ims-export-subscriptions-openapi.yml",
+   "openapi/_original/equinor-ims-metadata-apim-developer-data.json",
+   "openapi/_original/equinor-ims-metadata-apim-export.json",
+   "openapi/_original/equinor-ims-metadata-openapi.yml",
+   "openapi/_original/equinor-stormgeo-api-contract.yaml",
+   "openapi/_original/equinor-stormgeo-openapi.yml",
+   "openapi/_original/equinor-timeseries-apim-developer-data.json",
+   "openapi/_original/equinor-timeseries-apim-export.json",
+   "openapi/_original/equinor-timeseries-openapi.yml"
+  ]
+ },
+ {
+  "slug": "ercot",
+  "specs": [
+   "openapi/_original/ercot-public-data-api-openapi.json"
+  ]
+ },
+ {
+  "slug": "es-pera",
+  "specs": [
+   "openapi/_original/es-pera-openapi.json"
+  ]
+ },
+ {
+  "slug": "eth-zurich",
+  "specs": [
+   "openapi/_original/eth-zurich-discovery.yaml",
+   "openapi/_original/eth-zurich-ethorama.yaml",
+   "openapi/_original/eth-zurich-firecrest-v2.json",
+   "openapi/_original/eth-zurich-geo.yaml",
+   "openapi/_original/eth-zurich-persons.yaml",
+   "openapi/_original/eth-zurich-research-collection-v1.yaml",
+   "openapi/_original/eth-zurich-research-collection-v2.yaml",
+   "openapi/_original/eth-zurich-vector.yaml"
+  ]
+ },
+ {
+  "slug": "eu-open-data-portal",
+  "specs": [
+   "openapi/_original/eu-open-data-portal-hub-repo-openapi.yaml",
+   "openapi/_original/eu-open-data-portal-hub-repo-openapi_2.yaml",
+   "openapi/_original/eu-open-data-portal-hub-search-openapi.yaml",
+   "openapi/_original/eu-open-data-portal-hub-search-openapi_2.yaml",
+   "openapi/_original/eu-open-data-portal-hub-statistics-swagger.json",
+   "openapi/_original/eu-open-data-portal-hub-statistics-swagger_2.json",
+   "openapi/_original/eu-open-data-portal-mqa-metrics-cache-openapi.yaml",
+   "openapi/_original/eu-open-data-portal-mqa-metrics-cache-openapi_2.yaml",
+   "openapi/_original/eu-open-data-portal-mqa-reporter-openapi.yaml",
+   "openapi/_original/eu-open-data-portal-mqa-reporter-openapi_2.yaml",
+   "openapi/_original/eu-open-data-portal-mqa-shacl-openapi.yaml",
+   "openapi/_original/eu-open-data-portal-mqa-shacl-openapi_2.yaml"
+  ]
+ },
+ {
+  "slug": "eumetsat",
+  "specs": [
+   "openapi/_original/eumetsat-data-store-browse-openapi.json",
+   "openapi/_original/eumetsat-data-store-browse-openapi.yml",
+   "openapi/_original/eumetsat-data-store-cart-openapi.json",
+   "openapi/_original/eumetsat-data-store-cart-openapi.yml",
+   "openapi/_original/eumetsat-data-store-download-openapi.json",
+   "openapi/_original/eumetsat-data-store-download-openapi.yml",
+   "openapi/_original/eumetsat-data-store-search-openapi.json",
+   "openapi/_original/eumetsat-data-store-search-openapi.yml",
+   "openapi/_original/eumetsat-data-store-subscription-openapi.json",
+   "openapi/_original/eumetsat-data-store-subscription-openapi.yml",
+   "openapi/_original/eumetsat-data-tailor-openapi.json",
+   "openapi/_original/eumetsat-data-tailor-openapi.yml",
+   "openapi/_original/eumetsat-dtws-openapi.json",
+   "openapi/_original/eumetsat-dtws-openapi.yml",
+   "openapi/_original/eumetsat-health-check-openapi.json",
+   "openapi/_original/eumetsat-health-check-openapi.yml",
+   "openapi/_original/eumetsat-product-navigator-csw-openapi.json",
+   "openapi/_original/eumetsat-product-navigator-csw-openapi.yml",
+   "openapi/_original/eumetsat-product-navigator-openapi.json",
+   "openapi/_original/eumetsat-product-navigator-openapi.yml",
+   "openapi/_original/eumetsat-user-info-openapi.json",
+   "openapi/_original/eumetsat-user-info-openapi.yml",
+   "openapi/_original/eumetsat-user-preferences-openapi.json",
+   "openapi/_original/eumetsat-user-preferences-openapi.yml"
+  ]
+ },
+ {
+  "slug": "eurostat",
+  "specs": [
+   "openapi/_original/eurostat-sdmx-rest-openapi.yaml"
+  ]
+ },
+ {
+  "slug": "faa",
+  "specs": [
+   "openapi/_original/faa-aeronautic-product-release-api-openapi.yml",
+   "openapi/_original/faa-air-carrier-prd-api-openapi.yml",
+   "openapi/_original/faa-airport-status-web-service-openapi.yml",
+   "openapi/_original/faa-openapi.json",
+   "openapi/_original/faa-safety-assurance-system-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "federal-communications-commission",
+  "specs": [
+   "openapi/_original/ecfs.yml",
+   "openapi/_original/opendata.yml"
+  ]
+ },
+ {
+  "slug": "federal-highway-administration",
+  "specs": [
+   "openapi/_original/federal-highway-administration-v2x-app-api-openapi.json"
+  ]
+ },
+ {
+  "slug": "ferc",
+  "specs": [
+   "openapi/_original/ferc-data-api-openapi.json"
+  ]
+ },
+ {
+  "slug": "findlocal",
+  "specs": [
+   "openapi/_original/findlocal-openapi-full.json"
+  ]
+ },
+ {
+  "slug": "finn-tannlege-com",
+  "specs": [
+   "openapi/_original/finn-tannlege-com-openapi.json",
+   "openapi/_original/finn-tannlege-com-openapi.yml"
+  ]
+ },
+ {
+  "slug": "first-direct",
+  "specs": [
+   "openapi/_original/obie-account-info-openapi.yaml",
+   "openapi/_original/obie-confirmation-funds-openapi.yaml",
+   "openapi/_original/obie-opendata-openapi.json",
+   "openapi/_original/obie-payment-initiation-openapi.yaml"
+  ]
+ },
+ {
+  "slug": "fiscaldata",
+  "specs": [
+   "openapi/_original/fiscaldata-openapi.yml"
+  ]
+ },
+ {
+  "slug": "flatin-pt",
+  "specs": [
+   "openapi/_original/flatin-pt-openapi.json"
+  ]
+ },
+ {
+  "slug": "flightfinder",
+  "specs": [
+   "openapi/_original/flightfinder-aviation-safety-data-openapi.json"
+  ]
+ },
+ {
+  "slug": "food-info",
+  "specs": [
+   "openapi/_original/food-info-openapi.json"
+  ]
+ },
+ {
+  "slug": "foreign-agricultural-service",
+  "specs": [
+   "openapi/_original/foreign-agricultural-service-fas-open-data-swagger.json"
+  ]
+ },
+ {
+  "slug": "fueleconomy",
+  "specs": [
+   "openapi/_original/fueleconomy-fuel-economy-web-services-openapi.yml"
+  ]
+ },
+ {
+  "slug": "general-services-administration",
+  "specs": [
+   "openapi/_original/general-services-administration-acquisition-gateway-listings-openapi.yaml",
+   "openapi/_original/general-services-administration-acquisition-subaward-reporting-openapi.yaml",
+   "openapi/_original/general-services-administration-analytics-dap-openapi.yaml",
+   "openapi/_original/general-services-administration-apidatagov-admin-openapi.yaml",
+   "openapi/_original/general-services-administration-apidatagov-metrics-openapi.yaml",
+   "openapi/_original/general-services-administration-assistance-listings-openapi.yaml",
+   "openapi/_original/general-services-administration-assistance-subaward-reporting-openapi.yaml",
+   "openapi/_original/general-services-administration-contract-awards-openapi.yaml",
+   "openapi/_original/general-services-administration-datagov-ckan-openapi.yaml",
+   "openapi/_original/general-services-administration-it-collect-openapi.json",
+   "openapi/_original/general-services-administration-per-diem-openapi.yaml",
+   "openapi/_original/general-services-administration-regulations-gov-openapi.yaml",
+   "openapi/_original/general-services-administration-sam-entity-extracts-openapi.yaml",
+   "openapi/_original/general-services-administration-sam-entity-management-openapi.yaml",
+   "openapi/_original/general-services-administration-sam-exclusions-openapi.yaml",
+   "openapi/_original/general-services-administration-sam-opportunity-management-openapi.json",
+   "openapi/_original/general-services-administration-sam-subaward-bulkupload-openapi.yaml",
+   "openapi/_original/general-services-administration-sam-subcontracting-plan-reports-openapi.yaml",
+   "openapi/_original/general-services-administration-searchgov-clicks-openapi.yaml",
+   "openapi/_original/general-services-administration-searchgov-results-openapi.yaml",
+   "openapi/_original/general-services-administration-site-scanning-openapi.json",
+   "openapi/_original/general-services-administration-touchpoints-openapi.yaml"
+  ]
+ },
+ {
+  "slug": "geocode-earth",
+  "specs": [
+   "openapi/_original/geocode-earth-openapi.yml"
+  ]
+ },
+ {
+  "slug": "georgia-institute-of-technology",
+  "specs": [
+   "openapi/_original/georgia-institute-of-technology-gt-places.yaml",
+   "openapi/_original/georgia-institute-of-technology-sums.yaml"
+  ]
+ },
+ {
+  "slug": "ghent",
+  "specs": [
+   "openapi/_original/ghent-oai-service-openapi.yaml",
+   "openapi/_original/ghent-people-service-openapi.yaml",
+   "openapi/_original/ghent-projects-service-openapi.yaml"
+  ]
+ },
+ {
+  "slug": "gleif",
+  "specs": [
+   "openapi/_original/gleif-lei-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "google-cloud-data-catalog",
+  "specs": [
+   "openapi/_original/google-cloud-data-catalog-openapi.yml"
+  ]
+ },
+ {
+  "slug": "govinfo",
+  "specs": [
+   "openapi/_original/openapi.yml"
+  ]
+ },
+ {
+  "slug": "gzw-data",
+  "specs": [
+   "openapi/_original/gzw-data-openapi.json"
+  ]
+ },
+ {
+  "slug": "halifax",
+  "specs": [
+   "openapi/_original/openbanking-opendata-standard-swagger.json"
+  ]
+ },
+ {
+  "slug": "hhs",
+  "specs": [
+   "openapi/_original/simpler-grants-gov.yml"
+  ]
+ },
+ {
+  "slug": "hkust",
+  "specs": [
+   "openapi/_original/hkust-path-advisor-openapi.yml",
+   "openapi/_original/hkust-path-advisor-openapi_2.yml"
+  ]
+ },
+ {
+  "slug": "hm-land-registry",
+  "specs": [
+   "openapi/_original/hm-land-registry-estimate-completion-date-openapi.yml",
+   "openapi/_original/hm-land-registry-land-register-api-openapi.yml",
+   "openapi/_original/hm-land-registry-official-copy-document-availability-v1-customer-test-openapi.json",
+   "openapi/_original/hm-land-registry-official-copy-document-availability-v1-openapi.json",
+   "openapi/_original/hm-land-registry-official-copy-document-availability-v2-customer-test-openapi.json",
+   "openapi/_original/hm-land-registry-official-copy-document-availability-v2-openapi.json",
+   "openapi/_original/hm-land-registry-official-search-of-whole-with-data-openapi.yml",
+   "openapi/_original/hm-land-registry-registered-proprietor-names-openapi.json",
+   "openapi/_original/hm-land-registry-submit-application-to-change-the-register-v0.3-openapi.json",
+   "openapi/_original/hm-land-registry-submit-application-to-change-the-register-v1.0-openapi.json",
+   "openapi/_original/hm-land-registry-use-land-property-data-openapi.yml"
+  ]
+ },
+ {
+  "slug": "horizonshield-dev",
+  "specs": [
+   "openapi/_original/horizonshield-dev-mcp-conduct-register-openapi.json"
+  ]
+ },
+ {
+  "slug": "hydro-quebec",
+  "specs": [
+   "openapi/_original/hydro-quebec-open-data-explore-api-v2-0-openapi.json",
+   "openapi/_original/hydro-quebec-open-data-explore-api-v2-1-openapi.json"
+  ]
+ },
+ {
+  "slug": "i6eal-open-ai-data-api",
+  "specs": [
+   "openapi/_original/i6eal-open-ai-data-api-openapi.json"
+  ]
+ },
+ {
+  "slug": "informatica",
+  "specs": [
+   "openapi/_original/informatica-platform-rest-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "ingest0r-com",
+  "specs": [
+   "openapi/_original/ingest0r-com-openapi.json",
+   "openapi/_original/ingest0r-com-openapi.yml"
+  ]
+ },
+ {
+  "slug": "ku-leuven",
+  "specs": [
+   "openapi/_original/ku-leuven-rdr.yaml"
+  ]
+ },
+ {
+  "slug": "la-poste",
+  "specs": [
+   "openapi/_original/colissimo-shipping-openapi.json"
+  ]
+ },
+ {
+  "slug": "la-poste-groupe",
+  "specs": [
+   "openapi/_original/la-poste-groupe-digiposte-openapi.json",
+   "openapi/_original/la-poste-groupe-lettre-recommandee-en-ligne-openapi.json",
+   "openapi/_original/la-poste-groupe-open-data-openapi.json",
+   "openapi/_original/la-poste-groupe-suivi-openapi.json"
+  ]
+ },
+ {
+  "slug": "lakekeeper",
+  "specs": [
+   "openapi/_original/lakekeeper-catalog-api-openapi.yml",
+   "openapi/_original/lakekeeper-management-api-openapi.yml",
+   "openapi/_original/lakekeeper-management-plus-api-openapi.yml",
+   "openapi/_original/lakekeeper-openapi.yml"
+  ]
+ },
+ {
+  "slug": "lens",
+  "specs": [
+   "openapi/_original/lens-openapi.yml"
+  ]
+ },
+ {
+  "slug": "lloyds-banking-group",
+  "specs": [
+   "openapi/_original/obie-account-info-openapi.yaml",
+   "openapi/_original/obie-confirmation-funds-openapi.yaml",
+   "openapi/_original/obie-opendata-swagger.json",
+   "openapi/_original/obie-payment-initiation-openapi.yaml",
+   "openapi/_original/obie-vrp-openapi.yaml"
+  ]
+ },
+ {
+  "slug": "mealdb",
+  "specs": [
+   "openapi/_original/mealdb-openapi.yml",
+   "openapi/_original/openapi.json"
+  ]
+ },
+ {
+  "slug": "met-office",
+  "specs": [
+   "openapi/_original/atmosphericmodel_versioned_subscriber.json",
+   "openapi/_original/land_obs_subscriber.json",
+   "openapi/_original/mapimages_subscriber.json",
+   "openapi/_original/met-office-atmospheric-models-openapi.yml",
+   "openapi/_original/met-office-blended-probabilistic-forecast-openapi.yml",
+   "openapi/_original/met-office-land-observations-openapi.yml",
+   "openapi/_original/met-office-map-images-openapi.yml",
+   "openapi/_original/met-office-nswws-warnings-openapi.yml",
+   "openapi/_original/met-office-site-specific-openapi.yml",
+   "openapi/_original/mo-site-specific-blended-probabilistic-forecast-v2_subscriber.json",
+   "openapi/_original/nswws_api_subscriber.json",
+   "openapi/_original/weathercloud2api_subscriber.json"
+  ]
+ },
+ {
+  "slug": "microsoft-purview",
+  "specs": [
+   "openapi/_original/microsoft-purview-account-openapi.yml",
+   "openapi/_original/microsoft-purview-catalog-openapi.yml",
+   "openapi/_original/microsoft-purview-data-map-openapi.yml",
+   "openapi/_original/microsoft-purview-data-quality-openapi.yml",
+   "openapi/_original/microsoft-purview-data-security-governance-openapi.yml",
+   "openapi/_original/microsoft-purview-ediscovery-openapi.yml",
+   "openapi/_original/microsoft-purview-information-protection-openapi.yml",
+   "openapi/_original/microsoft-purview-metadata-policies-openapi.yml",
+   "openapi/_original/microsoft-purview-records-management-openapi.yml",
+   "openapi/_original/microsoft-purview-scanning-openapi.yml",
+   "openapi/_original/microsoft-purview-unified-catalog-openapi.yml",
+   "openapi/_original/microsoft-purview-workflow-openapi.yml"
+  ]
+ },
+ {
+  "slug": "mireye",
+  "specs": [
+   "openapi/_original/mireye-openapi-original.json"
+  ]
+ },
+ {
+  "slug": "nasa",
+  "specs": [
+   "openapi/_original/nasa-apod-openapi.yml",
+   "openapi/_original/nasa-donki-openapi.yml",
+   "openapi/_original/nasa-epic-openapi.yml",
+   "openapi/_original/nasa-mars-rover-photos-openapi.yml",
+   "openapi/_original/nasa-nasa-image-and-video-library-openapi.yml",
+   "openapi/_original/nasa-neo-openapi.yml"
+  ]
+ },
+ {
+  "slug": "nasa-apod",
+  "specs": [
+   "openapi/_original/openapi.yml"
+  ]
+ },
+ {
+  "slug": "nasa-cmr",
+  "specs": [
+   "openapi/_original/nasa-cmr-search-openapi.json",
+   "openapi/_original/nasa-cmr-stac-openapi.json"
+  ]
+ },
+ {
+  "slug": "nasa-firms",
+  "specs": [
+   "openapi/_original/nasa-firms-openapi.yml"
+  ]
+ },
+ {
+  "slug": "nasa-gov",
+  "specs": [
+   "openapi/_original/apod-openapi.yml",
+   "openapi/_original/asteroids-neows-openapi.yml",
+   "openapi/_original/donki-openapi.yml",
+   "openapi/_original/earth-openapi.yml",
+   "openapi/_original/eonet-openapi.yml",
+   "openapi/_original/epic-openapi.yml",
+   "openapi/_original/exoplanet-openapi.yml",
+   "openapi/_original/genelab-openapi.yml",
+   "openapi/_original/image-video-library-openapi.yml",
+   "openapi/_original/insight-openapi.yml",
+   "openapi/_original/mars-rover-photos-openapi.yml",
+   "openapi/_original/satellite-situation-center-openapi.yml",
+   "openapi/_original/ssd-cneos-openapi.yml",
+   "openapi/_original/techport-openapi.yml",
+   "openapi/_original/techtransfer-openapi.yml",
+   "openapi/_original/tle-openapi.yml",
+   "openapi/_original/trek-wmts-openapi.yml"
+  ]
+ },
+ {
+  "slug": "nasa-mars",
+  "specs": [
+   "openapi/_original/openapi.yml"
+  ]
+ },
+ {
+  "slug": "nasa-neows",
+  "specs": [
+   "openapi/_original/openapi.yml"
+  ]
+ },
+ {
+  "slug": "national-energy-system-operator",
+  "specs": [
+   "openapi/_original/national-energy-system-operator-openapi.json"
+  ]
+ },
+ {
+  "slug": "national-university-of-colombia",
+  "specs": [
+   "openapi/_original/national-university-of-colombia-journals-oai.yaml",
+   "openapi/_original/national-university-of-colombia-repository-oai.yaml"
+  ]
+ },
+ {
+  "slug": "neso",
+  "specs": [
+   "openapi/_original/neso-data-portal-openapi.json"
+  ]
+ },
+ {
+  "slug": "new-york-public-library-whats-on-the-menu",
+  "specs": [
+   "openapi/_original/new-york-public-library-whats-on-the-menu-openapi-original.yaml"
+  ]
+ },
+ {
+  "slug": "newcastle",
+  "specs": [
+   "openapi/_original/newcastle-digitised-objects-repository.json",
+   "openapi/_original/newcastle-urban-observatory.yaml"
+  ]
+ },
+ {
+  "slug": "nhs-england",
+  "specs": [
+   "openapi/_original/nhs-app-openapi.yaml",
+   "openapi/_original/nhs-booking-and-referral-fhir-openapi.yaml",
+   "openapi/_original/nhs-communications-manager-openapi.yaml",
+   "openapi/_original/nhs-e-referral-service-openapi.yaml",
+   "openapi/_original/nhs-immunisation-history-openapi.yaml",
+   "openapi/_original/nhs-organisation-data-service-fhir-r4-openapi.yaml",
+   "openapi/_original/nhs-service-search-openapi.yaml"
+  ]
+ },
+ {
+  "slug": "noaa",
+  "specs": [
+   "openapi/_original/noaa-aviation-weather-openapi.yml",
+   "openapi/_original/noaa-nws-openapi.yml"
+  ]
+ },
+ {
+  "slug": "noaa-erddap",
+  "specs": [
+   "openapi/_original/openapi.yaml"
+  ]
+ },
+ {
+  "slug": "noaa-gov",
+  "specs": [
+   "openapi/_original/weather-gov-api-openapi.json"
+  ]
+ },
+ {
+  "slug": "northern-powergrid",
+  "specs": [
+   "openapi/_original/northern-powergrid-open-data-explore-api-v2-0-openapi.json",
+   "openapi/_original/northern-powergrid-open-data-explore-api-v2-1-openapi.json"
+  ]
+ },
+ {
+  "slug": "nthu",
+  "specs": [
+   "openapi/_original/nthu-data-api.yaml"
+  ]
+ },
+ {
+  "slug": "nutrientsdb",
+  "specs": [
+   "openapi/_original/nutrientsdb-sample-api-openapi.yml",
+   "openapi/_original/nutrientsdb-sample-openapi-original.json"
+  ]
+ },
+ {
+  "slug": "ofcom",
+  "specs": [
+   "openapi/_original/ofcom-connected-nations-broadband-api-openapi.yml",
+   "openapi/_original/ofcom-connected-nations-mobile-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "omdb",
+  "specs": [
+   "openapi/_original/omdb-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "onebusaway",
+  "specs": [
+   "openapi/_original/openapi.yml"
+  ]
+ },
+ {
+  "slug": "ontario-energy-board",
+  "specs": [
+   "openapi/_original/ontario-energy-board-rds-openapi.yml"
+  ]
+ },
+ {
+  "slug": "open-food-facts",
+  "specs": [
+   "openapi/_original/open-food-facts-api-v2-openapi.yml",
+   "openapi/_original/open-food-facts-api-v3-openapi.yml",
+   "openapi/_original/open-food-facts-facets-knowledge-panels-openapi.json",
+   "openapi/_original/open-food-facts-folksonomy-openapi.json",
+   "openapi/_original/open-food-facts-nutripatrol-openapi.json",
+   "openapi/_original/open-food-facts-open-prices-openapi.yml",
+   "openapi/_original/open-food-facts-openapi.yml",
+   "openapi/_original/open-food-facts-search-a-licious-openapi.json"
+  ]
+ },
+ {
+  "slug": "open-government-new-south-wales",
+  "specs": [
+   "openapi/_original/open-government-new-south-wales-fuel-openapi.yml",
+   "openapi/_original/open-government-new-south-wales-fuel-swagger.json",
+   "openapi/_original/open-government-new-south-wales-home-building-compensation-openapi.yml",
+   "openapi/_original/open-government-new-south-wales-home-building-compensation-swagger.json",
+   "openapi/_original/open-government-new-south-wales-pharmacy-register-openapi.yml",
+   "openapi/_original/open-government-new-south-wales-pharmacy-register-swagger.json",
+   "openapi/_original/open-government-new-south-wales-property-openapi.yml",
+   "openapi/_original/open-government-new-south-wales-property-swagger.json",
+   "openapi/_original/open-government-new-south-wales-security-openapi.yml",
+   "openapi/_original/open-government-new-south-wales-security-swagger.json",
+   "openapi/_original/open-government-new-south-wales-trades-openapi.yml",
+   "openapi/_original/open-government-new-south-wales-trades-swagger.json"
+  ]
+ },
+ {
+  "slug": "open-library",
+  "specs": [
+   "openapi/_original/open-library-openapi.yml"
+  ]
+ },
+ {
+  "slug": "open-payments",
+  "specs": [
+   "openapi/_original/open-payments-openapi.yml"
+  ]
+ },
+ {
+  "slug": "openchargemap",
+  "specs": [
+   "openapi/_original/openapi.yaml"
+  ]
+ },
+ {
+  "slug": "opendatasoft",
+  "specs": [
+   "openapi/_original/opendatasoft-explore-api-v2.1.json"
+  ]
+ },
+ {
+  "slug": "openfda",
+  "specs": [
+   "openapi/_original/openfda-openapi.yml"
+  ]
+ },
+ {
+  "slug": "opengov",
+  "specs": [
+   "openapi/_original/opengov-budgeting-performance-openapi.yml",
+   "openapi/_original/opengov-enterprise-asset-management-openapi.yml",
+   "openapi/_original/opengov-open-data-ckan-openapi.yml",
+   "openapi/_original/opengov-permitting-licensing-v1-openapi-original.yml",
+   "openapi/_original/opengov-permitting-licensing-v1-openapi.yml",
+   "openapi/_original/opengov-permitting-licensing-v2-openapi-original.yml",
+   "openapi/_original/opengov-permitting-licensing-v2-openapi.yml",
+   "openapi/_original/opengov-procurement-v1-openapi.yml",
+   "openapi/_original/opengov-procurement-v2-openapi.yml",
+   "openapi/_original/opengov-purchase-order-openapi.yml",
+   "openapi/_original/opengov-receipt-openapi.yml",
+   "openapi/_original/opengov-vendor-management-openapi.yml"
+  ]
+ },
+ {
+  "slug": "openlaws",
+  "specs": [
+   "openapi/_original/openlaws-openapi.json",
+   "openapi/_original/openlaws-openapi.yml"
+  ]
+ },
+ {
+  "slug": "openmercantil",
+  "specs": [
+   "openapi/_original/openmercantil-openapi-1.9.3.json",
+   "openapi/_original/openmercantil-openapi.yml",
+   "openapi/_original/openmercantil-risk-signals-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "openmetadata",
+  "specs": [
+   "openapi/_original/openmetadata-openmetadata-rest-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "opensanctions",
+  "specs": [
+   "openapi/_original/opensanctions-openapi.json"
+  ]
+ },
+ {
+  "slug": "openstates",
+  "specs": [
+   "openapi/_original/openstates-api-v3-openapi.json"
+  ]
+ },
+ {
+  "slug": "openstreetmap",
+  "specs": [
+   "openapi/_original/openstreetmap-main-openapi.yml",
+   "openapi/_original/openstreetmap-nominatim-openapi.yml"
+  ]
+ },
+ {
+  "slug": "openverse",
+  "specs": [
+   "openapi/_original/openapi.json"
+  ]
+ },
+ {
+  "slug": "opplevagent-no",
+  "specs": [
+   "openapi/_original/opplevagent-no-openapi.json",
+   "openapi/_original/opplevagent-no-openapi.yml"
+  ]
+ },
+ {
+  "slug": "ordnance-survey",
+  "specs": [
+   "openapi/_original/ordnance-survey-downloads-openapi.yaml",
+   "openapi/_original/ordnance-survey-features-wfs-openapi.json",
+   "openapi/_original/ordnance-survey-linked-identifiers-openapi.json",
+   "openapi/_original/ordnance-survey-maps-openapi.json",
+   "openapi/_original/ordnance-survey-names-openapi.json",
+   "openapi/_original/ordnance-survey-ngd-features-openapi.json",
+   "openapi/_original/ordnance-survey-ngd-tiles-openapi.json",
+   "openapi/_original/ordnance-survey-osnet-openapi.yaml",
+   "openapi/_original/ordnance-survey-places-openapi.json",
+   "openapi/_original/ordnance-survey-vector-tile-openapi.json"
+  ]
+ },
+ {
+  "slug": "osmaura",
+  "specs": [
+   "openapi/_original/osmaura-prospect-openapi-original.yml",
+   "openapi/_original/osmaura-prospect-openapi.yml"
+  ]
+ },
+ {
+  "slug": "pangaea",
+  "specs": [
+   "openapi/_original/pangaea-data-download-api.yml",
+   "openapi/_original/pangaea-oai-pmh-api.yml",
+   "openapi/_original/pangaea-search-api.yml"
+  ]
+ },
+ {
+  "slug": "pathwren",
+  "specs": [
+   "openapi/_original/pathwren-ai-crawler-index-openapi.json",
+   "openapi/_original/pathwren-ai-crawler-index-openapi.yaml"
+  ]
+ },
+ {
+  "slug": "pdb",
+  "specs": [
+   "openapi/_original/rcsb-pdb-model-server-api.json",
+   "openapi/_original/rcsb-pdb-search-api.json",
+   "openapi/_original/rcsb-pdb-volume-server-api.json"
+  ]
+ },
+ {
+  "slug": "peking",
+  "specs": [
+   "openapi/_original/peking-institutional-repository-oai-pmh-openapi.yml",
+   "openapi/_original/peking-institutional-repository-rest-openapi.yml"
+  ]
+ },
+ {
+  "slug": "plinth-us-grants-data",
+  "specs": [
+   "openapi/_original/plinth-us-grants-data-openapi.json"
+  ]
+ },
+ {
+  "slug": "podcastindex",
+  "specs": [
+   "openapi/_original/podcastindex-openapi.yml"
+  ]
+ },
+ {
+  "slug": "pokeapi",
+  "specs": [
+   "openapi/_original/pokeapi-openapi.yml"
+  ]
+ },
+ {
+  "slug": "politecnico-di-torino",
+  "specs": [
+   "openapi/_original/politecnico-di-torino-faculty-api.yaml",
+   "openapi/_original/politecnico-di-torino-public-search-api.yaml",
+   "openapi/_original/politecnico-di-torino-students-api.yaml"
+  ]
+ },
+ {
+  "slug": "postalcodes-info",
+  "specs": [
+   "openapi/_original/postalcodes-info-openapi.yml"
+  ]
+ },
+ {
+  "slug": "powershop",
+  "specs": [
+   "openapi/_original/powershop-cdr-common-api-openapi.json",
+   "openapi/_original/powershop-cdr-energy-api-openapi.json"
+  ]
+ },
+ {
+  "slug": "princeton",
+  "specs": [
+   "openapi/_original/princeton-allsearch-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "principality-building-society",
+  "specs": [
+   "openapi/_original/obie-open-data-swagger.json"
+  ]
+ },
+ {
+  "slug": "public-transport-victoria",
+  "specs": [
+   "openapi/_original/public-transport-victoria-timetable-openapi.yml",
+   "openapi/_original/public-transport-victoria-timetable-swagger-v3.json"
+  ]
+ },
+ {
+  "slug": "publiq",
+  "specs": [
+   "openapi/_original/museumpassmusees-partner-api.json",
+   "openapi/_original/publiq-museumpassmusees-partner-openapi.yml",
+   "openapi/_original/publiq-uitdatabank-entry-openapi.yml",
+   "openapi/_original/publiq-uitdatabank-search-openapi.yml",
+   "openapi/_original/publiq-uitdatabank-taxonomy-openapi.yml",
+   "openapi/_original/publiq-uitpas-openapi.yml",
+   "openapi/_original/uitdatabank-entry.json",
+   "openapi/_original/uitdatabank-search.json",
+   "openapi/_original/uitdatabank-taxonomy.json",
+   "openapi/_original/uitpas-uitpas.json"
+  ]
+ },
+ {
+  "slug": "quiver",
+  "specs": [
+   "openapi/_original/quiver-openapi.yml"
+  ]
+ },
+ {
+  "slug": "quiver-quantitative",
+  "specs": [
+   "openapi/_original/quiver-quantitative-openapi.json",
+   "openapi/_original/schema.json"
+  ]
+ },
+ {
+  "slug": "radiant-earth",
+  "specs": [
+   "openapi/_original/radiant-earth-source-cooperative-openapi.json",
+   "openapi/_original/radiant-earth-source-cooperative-openapi.yml"
+  ]
+ },
+ {
+  "slug": "radio-browser",
+  "specs": [
+   "openapi/_original/radio-browser-openapi.yml"
+  ]
+ },
+ {
+  "slug": "red-energy",
+  "specs": [
+   "openapi/_original/red-energy-cds-common-openapi.yml",
+   "openapi/_original/red-energy-cds-energy-openapi.yml"
+  ]
+ },
+ {
+  "slug": "regulations-gov",
+  "specs": [
+   "openapi/_original/regulations-gov-regulations-gov-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "science-museum-group",
+  "specs": [
+   "openapi/_original/science-museum-group-collection-openapi.yml"
+  ]
+ },
+ {
+  "slug": "scottishpower",
+  "specs": [
+   "openapi/_original/scottishpower-spen-open-data-explore-api-openapi.json"
+  ]
+ },
+ {
+  "slug": "scryfall",
+  "specs": [
+   "openapi/_original/scryfall-openapi.yml"
+  ]
+ },
+ {
+  "slug": "sec",
+  "specs": [
+   "openapi/_original/sec-edgar-data-openapi.yml",
+   "openapi/_original/sec-edgar-filer-openapi.yml",
+   "openapi/_original/sec-edgar-full-text-search-openapi.yml"
+  ]
+ },
+ {
+  "slug": "select-star",
+  "specs": [
+   "openapi/_original/select-star-openapi.yml"
+  ]
+ },
+ {
+  "slug": "serbia-company-data",
+  "specs": [
+   "openapi/_original/serbia-company-data-openapi.json"
+  ]
+ },
+ {
+  "slug": "sex-offenders-api",
+  "specs": [
+   "openapi/_original/sex-offenders-api-openapi.yml",
+   "openapi/_original/sex-offenders-api-v5-openapi.yml"
+  ]
+ },
+ {
+  "slug": "sifflet",
+  "specs": [
+   "openapi/_original/sifflet-backend-api-readme-slices.json"
+  ]
+ },
+ {
+  "slug": "sirenic-eu",
+  "specs": [
+   "openapi/_original/sirenic-eu-openapi.json",
+   "openapi/_original/sirenic-eu-openapi.yml"
+  ]
+ },
+ {
+  "slug": "social-security-administration",
+  "specs": [
+   "openapi/_original/ssa-field-office-openapi.yml",
+   "openapi/_original/ssa-resident-station-openapi.yml"
+  ]
+ },
+ {
+  "slug": "southendonsea",
+  "specs": [
+   "openapi/_original/southendonsea-now-api-openapi.yml",
+   "openapi/_original/southendonsea-openapi.json"
+  ]
+ },
+ {
+  "slug": "ssen",
+  "specs": [
+   "openapi/_original/ssen-transmission-opendatasoft-explore-v2.1-openapi.json"
+  ]
+ },
+ {
+  "slug": "string-db",
+  "specs": [
+   "openapi/_original/openapi.yml"
+  ]
+ },
+ {
+  "slug": "substance-abuse-and-mental-health-services-administration",
+  "specs": [
+   "openapi/_original/samhsa-treatment-locator-openapi.yml"
+  ]
+ },
+ {
+  "slug": "superhero",
+  "specs": [
+   "openapi/_original/openapi.yml"
+  ]
+ },
+ {
+  "slug": "swiss-food-composition-database",
+  "specs": [
+   "openapi/_original/swiss-food-composition-database-openapi.json",
+   "openapi/_original/swiss-food-composition-database-openapi.yaml"
+  ]
+ },
+ {
+  "slug": "talend",
+  "specs": [
+   "openapi/_original/crawler-openapi.json",
+   "openapi/_original/dataset-openapi.json",
+   "openapi/_original/dynamic-engine-environments-openapi.json",
+   "openapi/_original/dynamic-engine-openapi.json",
+   "openapi/_original/dynamic-engine-openapi.yml",
+   "openapi/_original/execution-history-search-openapi.json",
+   "openapi/_original/ip-allowlist-openapi.json",
+   "openapi/_original/oauth-openapi.json",
+   "openapi/_original/observability-metrics-openapi.json",
+   "openapi/_original/scim-v2-openapi.json",
+   "openapi/_original/seats-and-subscription-openapi.json",
+   "openapi/_original/service-accounts-openapi.json",
+   "openapi/_original/sharing-openapi.json",
+   "openapi/_original/sso-role-mapping-openapi.json",
+   "openapi/_original/talend-orchestration-openapi.yml",
+   "openapi/_original/talend-processing-openapi.yml",
+   "openapi/_original/workspace-permissions-openapi.json"
+  ]
+ },
+ {
+  "slug": "tandoor",
+  "specs": [
+   "openapi/_original/tandoor-api-openapi.yml",
+   "openapi/_original/tandoor-openapi-original.yml"
+  ]
+ },
+ {
+  "slug": "the-bureau-of-economic-analysis",
+  "specs": [
+   "openapi/_original/the-bureau-of-economic-analysis-openapi.yml"
+  ]
+ },
+ {
+  "slug": "the-index-fyi",
+  "specs": [
+   "openapi/_original/the-index-fyi-openapi.json",
+   "openapi/_original/the-index-fyi-openapi.yml"
+  ]
+ },
+ {
+  "slug": "thesportsdb",
+  "specs": [
+   "openapi/_original/thesportsdb-openapi.yml"
+  ]
+ },
+ {
+  "slug": "tickerinside",
+  "specs": [
+   "openapi/_original/tickerinside-openapi.json"
+  ]
+ },
+ {
+  "slug": "tier-mobility",
+  "specs": [
+   "openapi/_original/tier-mobility-gbfs-openapi.yml"
+  ]
+ },
+ {
+  "slug": "transitland",
+  "specs": [
+   "openapi/_original/transitland-rest-openapi.json",
+   "openapi/_original/transitland-rest-openapi.yml",
+   "openapi/_original/transitland-routing-openapi.json",
+   "openapi/_original/transitland-routing-openapi.yml"
+  ]
+ },
+ {
+  "slug": "trefle",
+  "specs": [
+   "openapi/_original/trefle-openapi.yml"
+  ]
+ },
+ {
+  "slug": "trove",
+  "specs": [
+   "openapi/_original/trove-api-v3.yaml",
+   "openapi/_original/trove-openapi.yml"
+  ]
+ },
+ {
+  "slug": "ubc",
+  "specs": [
+   "openapi/_original/ubc-abacus-dataverse.yaml"
+  ]
+ },
+ {
+  "slug": "uclouvain",
+  "specs": [
+   "openapi/_original/uclouvain-orthanc-api.json"
+  ]
+ },
+ {
+  "slug": "uk-power-networks",
+  "specs": [
+   "openapi/_original/uk-power-networks-explore-api-v2-0-openapi.json",
+   "openapi/_original/uk-power-networks-explore-api-v2-1-openapi.json"
+  ]
+ },
+ {
+  "slug": "unfao",
+  "specs": [
+   "openapi/_original/faostat-bulk-api.json",
+   "openapi/_original/faostat-data-api.json"
+  ]
+ },
+ {
+  "slug": "unicamp",
+  "specs": [
+   "openapi/_original/unicamp-edat-data-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "unicef-data",
+  "specs": [
+   "openapi/_original/unicef-geosight-openapi.json",
+   "openapi/_original/unicef-reference-data-manager-openapi.json"
+  ]
+ },
+ {
+  "slug": "united-states-census-bureau",
+  "specs": [
+   "openapi/_original/census-data-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "university-of-amsterdam",
+  "specs": [
+   "openapi/_original/university-of-amsterdam-llm-gateway-openapi.json",
+   "openapi/_original/university-of-amsterdam-llm-gateway-openapi_2.json"
+  ]
+ },
+ {
+  "slug": "university-of-bonn",
+  "specs": [
+   "openapi/_original/university-of-bonn-bonndata-native-api.yaml"
+  ]
+ },
+ {
+  "slug": "university-of-calgary",
+  "specs": [
+   "openapi/_original/university-of-calgary-aurorax-api.yaml",
+   "openapi/_original/university-of-calgary-srs-api.yaml"
+  ]
+ },
+ {
+  "slug": "university-of-cape-town",
+  "specs": [
+   "openapi/_original/university-of-cape-town-datafirst-nada.yaml"
+  ]
+ },
+ {
+  "slug": "university-of-edinburgh",
+  "specs": [
+   "openapi/_original/university-of-edinburgh-datashare-oai-pmh-openapi.yml",
+   "openapi/_original/university-of-edinburgh-datashare-oai-pmh.yaml",
+   "openapi/_original/university-of-edinburgh-datashare-repository-api-openapi.yml",
+   "openapi/_original/university-of-edinburgh-datashare-repository-api.yaml",
+   "openapi/_original/university-of-edinburgh-eidf-data-catalogue-api-openapi.yml",
+   "openapi/_original/university-of-edinburgh-eidf-data-catalogue-api.yaml",
+   "openapi/_original/university-of-edinburgh-elm-api.yaml",
+   "openapi/_original/university-of-edinburgh-era-oai-pmh-openapi.yml",
+   "openapi/_original/university-of-edinburgh-era-oai-pmh.yaml",
+   "openapi/_original/university-of-edinburgh-era-repository-api-openapi.yml",
+   "openapi/_original/university-of-edinburgh-era-repository-api.yaml"
+  ]
+ },
+ {
+  "slug": "university-of-freiburg",
+  "specs": [
+   "openapi/_original/university-of-freiburg-freidok-plus-json-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "university-of-gothenburg",
+  "specs": [
+   "openapi/_original/university-of-gothenburg-karp-api-openapi.json",
+   "openapi/_original/university-of-gothenburg-karp-search-api-openapi.json",
+   "openapi/_original/university-of-gothenburg-korp-api-openapi.yml",
+   "openapi/_original/university-of-gothenburg-metadata-api-openapi.json",
+   "openapi/_original/university-of-gothenburg-mink-api-openapi.json",
+   "openapi/_original/university-of-gothenburg-sparv-api-openapi.json"
+  ]
+ },
+ {
+  "slug": "university-of-groningen",
+  "specs": [
+   "openapi/_original/university-of-groningen-oai-pmh-openapi.yml",
+   "openapi/_original/university-of-groningen-oai-pmh.yaml"
+  ]
+ },
+ {
+  "slug": "university-of-helsinki",
+  "specs": [
+   "openapi/_original/university-of-helsinki-contact-search-api-openapi.json",
+   "openapi/_original/university-of-helsinki-course-pages-cms-openapi.json",
+   "openapi/_original/university-of-helsinki-course-pages-cms-openapi.yml",
+   "openapi/_original/university-of-helsinki-dawa-sync-api-openapi.json",
+   "openapi/_original/university-of-helsinki-employeeinformationapi-openapi.json",
+   "openapi/_original/university-of-helsinki-employeeinformationapi-openapi.yml",
+   "openapi/_original/university-of-helsinki-finbif-laji-openapi.json",
+   "openapi/_original/university-of-helsinki-finbif-laji-openapi.yml",
+   "openapi/_original/university-of-helsinki-general-efecte-api-openapi.json",
+   "openapi/_original/university-of-helsinki-helsinki-fi-content-openapi.json",
+   "openapi/_original/university-of-helsinki-helsinki-fi-content-openapi.yml",
+   "openapi/_original/university-of-helsinki-hy-building-api-openapi.json",
+   "openapi/_original/university-of-helsinki-hy-organisation-api-openapi.json",
+   "openapi/_original/university-of-helsinki-network-registry-api-openapi.json",
+   "openapi/_original/university-of-helsinki-persongroup-openapi.json",
+   "openapi/_original/university-of-helsinki-persongroup-openapi.yml",
+   "openapi/_original/university-of-helsinki-serviceapi-openapi.json",
+   "openapi/_original/university-of-helsinki-serviceapi-openapi.yml",
+   "openapi/_original/university-of-helsinki-sovellussalkku-api-openapi.json"
+  ]
+ },
+ {
+  "slug": "university-of-illinois-urbana-champaign",
+  "specs": [
+   "openapi/_original/university-of-illinois-urbana-champaign-rokwire-core.yaml",
+   "openapi/_original/university-of-illinois-urbana-champaign-rokwire-gateway.yaml"
+  ]
+ },
+ {
+  "slug": "university-of-macau",
+  "specs": [
+   "openapi/_original/university-of-macau-open-data-api-original.yml"
+  ]
+ },
+ {
+  "slug": "university-of-maryland-college-park",
+  "specs": [
+   "openapi/_original/university-of-maryland-college-park-libraries-website-tools-openapi.json"
+  ]
+ },
+ {
+  "slug": "university-of-minnesota",
+  "specs": [
+   "openapi/_original/university-of-minnesota-gems-exchange-biotic-risk-openapi.json",
+   "openapi/_original/university-of-minnesota-gems-exchange-biotic-risk-openapi.yml",
+   "openapi/_original/university-of-minnesota-gems-exchange-climate-openapi.json",
+   "openapi/_original/university-of-minnesota-gems-exchange-climate-openapi.yml",
+   "openapi/_original/university-of-minnesota-gems-exchange-crop-openapi.json",
+   "openapi/_original/university-of-minnesota-gems-exchange-crop-openapi.yml",
+   "openapi/_original/university-of-minnesota-gems-exchange-elevation-openapi.json",
+   "openapi/_original/university-of-minnesota-gems-exchange-elevation-openapi.yml",
+   "openapi/_original/university-of-minnesota-gems-exchange-hydro-openapi.json",
+   "openapi/_original/university-of-minnesota-gems-exchange-hydro-openapi.yml",
+   "openapi/_original/university-of-minnesota-gems-exchange-landcover-openapi.json",
+   "openapi/_original/university-of-minnesota-gems-exchange-landcover-openapi.yml",
+   "openapi/_original/university-of-minnesota-gems-exchange-market-openapi.json",
+   "openapi/_original/university-of-minnesota-gems-exchange-market-openapi.yml",
+   "openapi/_original/university-of-minnesota-gems-exchange-pedtools-openapi.json",
+   "openapi/_original/university-of-minnesota-gems-exchange-pedtools-openapi.yml",
+   "openapi/_original/university-of-minnesota-gems-exchange-soil-openapi.json",
+   "openapi/_original/university-of-minnesota-gems-exchange-soil-openapi.yml"
+  ]
+ },
+ {
+  "slug": "university-of-pennsylvania",
+  "specs": [
+   "openapi/_original/university-of-pennsylvania-penn-courses.yaml"
+  ]
+ },
+ {
+  "slug": "university-of-texas-at-austin",
+  "specs": [
+   "openapi/_original/university-of-texas-at-austin-tapis-apps-openapi-original.yml",
+   "openapi/_original/university-of-texas-at-austin-tapis-files-openapi-original.yml",
+   "openapi/_original/university-of-texas-at-austin-tapis-jobs-openapi-original.yml",
+   "openapi/_original/university-of-texas-at-austin-tapis-notifications-openapi-original.yml",
+   "openapi/_original/university-of-texas-at-austin-tapis-systems-openapi-original.yml"
+  ]
+ },
+ {
+  "slug": "university-of-twente",
+  "specs": [
+   "openapi/_original/university-of-twente-energy-api-openapi.json"
+  ]
+ },
+ {
+  "slug": "university-of-warsaw",
+  "specs": [
+   "openapi/_original/university-of-warsaw-jaskier-api.json",
+   "openapi/_original/university-of-warsaw-sp4eu-api.json",
+   "openapi/_original/university-of-warsaw-usos-api.yaml"
+  ]
+ },
+ {
+  "slug": "university-of-warwick",
+  "specs": [
+   "openapi/_original/university-of-warwick-wrap-oai-pmh-openapi.yml"
+  ]
+ },
+ {
+  "slug": "university-of-waterloo",
+  "specs": [
+   "openapi/_original/university-of-waterloo-open-data-api.yaml"
+  ]
+ },
+ {
+  "slug": "us-army",
+  "specs": [
+   "openapi/_original/us-army-public-openapi.yml"
+  ]
+ },
+ {
+  "slug": "us-army-corps-of-engineers",
+  "specs": [
+   "openapi/_original/usace-cwms-data-openapi.yml"
+  ]
+ },
+ {
+  "slug": "us-bureau-of-labor-statistics",
+  "specs": [
+   "openapi/_original/bls-public-data-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "us-census-bureau",
+  "specs": [
+   "openapi/_original/census-bds-api-openapi.yml",
+   "openapi/_original/census-data-api-openapi.yml",
+   "openapi/_original/census-geocoder-api-openapi.yml",
+   "openapi/_original/census-international-trade-api-openapi.yml",
+   "openapi/_original/census-microdata-api-openapi.yml",
+   "openapi/_original/census-population-clock-api-openapi.yml",
+   "openapi/_original/census-tigerweb-rest-openapi.yml"
+  ]
+ },
+ {
+  "slug": "us-department-of-commerce",
+  "specs": [
+   "openapi/_original/commerce-gov-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "us-department-of-defense",
+  "specs": [
+   "openapi/_original/usace-cwms-data-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "us-dot",
+  "specs": [
+   "openapi/_original/dot-childseats-api-openapi.yml",
+   "openapi/_original/dot-equipment-api-openapi.yml",
+   "openapi/_original/dot-ewr-api-openapi.yml",
+   "openapi/_original/dot-foreigncampaigns-api-openapi.yml",
+   "openapi/_original/dot-safetyissues-api-openapi.yml",
+   "openapi/_original/dot-tires-api-openapi.yml",
+   "openapi/_original/dot-vehicles-api-openapi.yml",
+   "openapi/_original/us-dot-faa-aeronautic-product-release-api-openapi.yml",
+   "openapi/_original/us-dot-faa-air-carrier-prd-api-openapi.yml",
+   "openapi/_original/us-dot-faa-airport-status-web-service-openapi.yml",
+   "openapi/_original/us-dot-faa-safety-assurance-system-api-openapi.yml",
+   "openapi/_original/us-dot-its-jpo-ode-rest-api-openapi.yml"
+  ]
+ },
+ {
+  "slug": "us-patent-and-trademark-office",
+  "specs": [
+   "openapi/_original/uspto-open-data-portal-openapi.yml",
+   "openapi/_original/uspto-tsdr-openapi.yml"
+  ]
+ },
+ {
+  "slug": "us-senate",
+  "specs": [
+   "openapi/_original/us-senate-lda-openapi.yml"
+  ]
+ },
+ {
+  "slug": "us-space-comman",
+  "specs": [
+   "openapi/_original/us-space-command-space-track-openapi.yml"
+  ]
+ },
+ {
+  "slug": "usacallerlookup",
+  "specs": [
+   "openapi/_original/usacallerlookup-openapi.json"
+  ]
+ },
+ {
+  "slug": "usaspending",
+  "specs": [
+   "openapi/_original/usaspending-openapi.yml"
+  ]
+ },
+ {
+  "slug": "usda-agricultural-research-service-ars-",
+  "specs": [
+   "openapi/_original/usda-ars-ag-data-commons-openapi.yml",
+   "openapi/_original/usda-ars-fooddata-central-openapi.yml"
+  ]
+ },
+ {
+  "slug": "usda-snap",
+  "specs": [
+   "openapi/_original/usda-snap-openapi.yml"
+  ]
+ },
+ {
+  "slug": "usgs-water",
+  "specs": [
+   "openapi/_original/usgs-water-openapi.json"
+  ]
+ },
+ {
+  "slug": "uspto-gov",
+  "specs": [
+   "openapi/_original/uspto-bulk-data-openapi.yml",
+   "openapi/_original/uspto-office-actions-openapi.yml",
+   "openapi/_original/uspto-patent-file-wrapper-openapi.yml",
+   "openapi/_original/uspto-patentsview-openapi.yml",
+   "openapi/_original/uspto-ptab-openapi.yml",
+   "openapi/_original/uspto-tsdr-openapi.yml"
+  ]
+ },
+ {
+  "slug": "va-gov",
+  "specs": [
+   "openapi/_original/va-gov-address-validation-v3-openapi.json",
+   "openapi/_original/va-gov-appealable-issues-v0-openapi.json",
+   "openapi/_original/va-gov-appeals-status-v0-openapi.json",
+   "openapi/_original/va-gov-appeals-status-v1-openapi.json",
+   "openapi/_original/va-gov-benefits-claims-v1-openapi.json",
+   "openapi/_original/va-gov-benefits-claims-v2-openapi.json",
+   "openapi/_original/va-gov-benefits-documents-v1-openapi.json",
+   "openapi/_original/va-gov-benefits-intake-v1-openapi.json",
+   "openapi/_original/va-gov-benefits-reference-data-v1-openapi.json",
+   "openapi/_original/va-gov-community-care-eligibility-v0-openapi.json",
+   "openapi/_original/va-gov-direct-deposit-management-v1-openapi.json",
+   "openapi/_original/va-gov-facilities-v0-openapi.json",
+   "openapi/_original/va-gov-facilities-v1-openapi.json",
+   "openapi/_original/va-gov-forms-v0-openapi.json",
+   "openapi/_original/va-gov-legacy-appeals-v0-openapi.json",
+   "openapi/_original/va-gov-loan-review-v1-openapi.json",
+   "openapi/_original/va-gov-va-letter-generator-v1-openapi.json",
+   "openapi/_original/va-gov-veteran-confirmation-v0-openapi.json",
+   "openapi/_original/va-gov-veteran-confirmation-v1-openapi.json",
+   "openapi/_original/va-gov-veteran-verification-v0-openapi.json",
+   "openapi/_original/va-gov-veteran-verification-v1-openapi.json",
+   "openapi/_original/va-gov-veteran-verification-v2-openapi.json"
+  ]
+ },
+ {
+  "slug": "vaquill-ai",
+  "specs": [
+   "openapi/_original/vaquill-ai-india-openapi.json",
+   "openapi/_original/vaquill-ai-india-openapi.yml",
+   "openapi/_original/vaquill-ai-openapi.json",
+   "openapi/_original/vaquill-ai-openapi.yml",
+   "openapi/_original/vaquill-ai-workspace-openapi.json",
+   "openapi/_original/vaquill-ai-workspace-openapi.yml"
+  ]
+ },
+ {
+  "slug": "wadifa-info",
+  "specs": [
+   "openapi/_original/wadifa-info-openapi.json",
+   "openapi/_original/wadifa-info-openapi.yml"
+  ]
+ },
+ {
+  "slug": "wageningen-university-research",
+  "specs": [
+   "openapi/_original/wageningen-university-research-agrodatacube-v1.yaml",
+   "openapi/_original/wageningen-university-research-agrodatacube-v2.yaml",
+   "openapi/_original/wageningen-university-research-library-oai-pmh-openapi.yml",
+   "openapi/_original/wageningen-university-research-library-oai-pmh.yaml"
+  ]
+ },
+ {
+  "slug": "waqi",
+  "specs": [
+   "openapi/_original/waqi-openapi.json"
+  ]
+ },
+ {
+  "slug": "weather-gov",
+  "specs": [
+   "openapi/_original/openapi.yml"
+  ]
+ },
+ {
+  "slug": "wegtultrarich",
+  "specs": [
+   "openapi/_original/wegtultrarich-openapi-original.yml"
+  ]
+ },
+ {
+  "slug": "who",
+  "specs": [
+   "openapi/_original/who-icd-api-openapi.json"
+  ]
+ },
+ {
+  "slug": "wikidata",
+  "specs": [
+   "openapi/_original/wikidata-mediawiki-openapi.yml"
+  ]
+ },
+ {
+  "slug": "wikipedia",
+  "specs": [
+   "openapi/_original/wikipedia-rest-v1-openapi.yaml",
+   "openapi/_original/wikipedia-wikimedia-enterprise-openapi.yaml"
+  ]
+ },
+ {
+  "slug": "wikisource",
+  "specs": [
+   "openapi/_original/wikimedia-rest-api-v1-openapi.json"
+  ]
+ },
+ {
+  "slug": "wmo",
+  "specs": [
+   "openapi/_original/wis2-global-discovery-catalogue-openapi.json"
+  ]
+ },
+ {
+  "slug": "worldbank",
+  "specs": [
+   "openapi/_original/worldbank-indicators-api.yml"
+  ]
+ },
+ {
+  "slug": "yr-no",
+  "specs": [
+   "openapi/_original/yr-no-locationforecast-openapi.yml",
+   "openapi/_original/yr-no-metalerts-openapi.yml",
+   "openapi/_original/yr-no-nowcast-openapi.yml",
+   "openapi/_original/yr-no-oceanforecast-openapi.yml",
+   "openapi/_original/yr-no-sunrise-openapi.yml"
+  ]
+ },
+ {
+  "slug": "zenodo",
+  "specs": [
+   "openapi/_original/zenodo-rest-api-openapi.yml"
+  ]
+ }
+]

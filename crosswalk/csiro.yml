@@ -1,0 +1,14 @@
+provider: csiro
+apis_io: https://apis.io/providers/csiro/
+context: open-data-catalogs
+generated: '2026-11-11'
+concepts:
+  dataset:
+    path_segment:
+    - dataset
+    properties:
+      name: title
+    core_coverage: 0.0
+    evidence:
+    - openapi/_original/csiro-dap-api-v2-openapi.json#GET /api/v2/tombstone/dataset/{uuid}
+    - openapi/_original/csiro-dap-api-v2-openapi.yml#GET /api/v2/tombstone/dataset/{uuid}

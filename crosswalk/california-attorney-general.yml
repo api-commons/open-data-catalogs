@@ -1,0 +1,14 @@
+provider: california-attorney-general
+apis_io: https://apis.io/providers/california-attorney-general/
+context: open-data-catalogs
+generated: '2026-11-11'
+concepts:
+  dataset:
+    path_segment:
+    - dataset
+    properties:
+      id: id
+    core_coverage: 1.0
+    evidence:
+    - openapi/_original/california-attorney-general-openjustice-jsonapi-openapi.yml#GET /node/dataset
+    - openapi/_original/california-attorney-general-openjustice-jsonapi-openapi.yml#GET /node/dataset/{id}

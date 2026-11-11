@@ -1,0 +1,28 @@
+provider: university-of-edinburgh
+apis_io: https://apis.io/providers/university-of-edinburgh/
+context: open-data-catalogs
+generated: '2026-11-11'
+concepts:
+  dataset:
+    path_segment:
+    - package_list
+    - package_search
+    - package_show
+    properties:
+      id: id
+      name:
+      - name
+      - title
+      description: notes
+      publisher_id: organization
+      created_at: metadata_created
+      keywords: tags
+      updated_at: metadata_modified
+      distributions: resources
+    core_coverage: 1.0
+    evidence:
+    - openapi/_original/university-of-edinburgh-eidf-data-catalogue-api-openapi.yml#GET /package_list
+    - openapi/_original/university-of-edinburgh-eidf-data-catalogue-api-openapi.yml#GET /package_search
+    - openapi/_original/university-of-edinburgh-eidf-data-catalogue-api-openapi.yml#GET /package_show
+    - openapi/_original/university-of-edinburgh-eidf-data-catalogue-api.yaml#GET /package_list
+    - openapi/_original/university-of-edinburgh-eidf-data-catalogue-api.yaml#GET /package_search

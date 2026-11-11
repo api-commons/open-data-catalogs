@@ -1,0 +1,20 @@
+provider: api-data-gov
+apis_io: https://apis.io/providers/api-data-gov/
+context: open-data-catalogs
+generated: '2026-11-11'
+concepts:
+  dataset:
+    path_segment:
+    - dataset
+    properties:
+      id:
+      - identifier
+      - slug
+      description: description
+      publisher_id:
+      - organization
+      - publisher
+      keywords: keyword
+    core_coverage: 1.0
+    evidence:
+    - openapi/_original/catalog.data.gov-openapi.json#GET /api/dataset/{slug_or_id}

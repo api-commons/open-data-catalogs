@@ -1,0 +1,30 @@
+provider: la-poste-groupe
+apis_io: https://apis.io/providers/la-poste-groupe/
+context: open-data-catalogs
+generated: '2026-11-11'
+concepts:
+  dataset:
+    path_segment:
+    - datasets
+    properties:
+      id:
+      - id
+      - slug
+      name: title
+      description:
+      - summary
+      - description
+      attachments: attachments
+      publisher_id: owner
+      created_at: createdAt
+      keywords: keywords
+      updated_at:
+      - modified
+      - updatedAt
+    core_coverage: 1.0
+    evidence:
+    - openapi/_original/la-poste-groupe-open-data-openapi.json#DELETE /datasets/{id}
+    - openapi/_original/la-poste-groupe-open-data-openapi.json#GET /datasets
+    - openapi/_original/la-poste-groupe-open-data-openapi.json#GET /datasets/{id}
+    - openapi/_original/la-poste-groupe-open-data-openapi.json#PATCH /datasets/{id}
+    - openapi/_original/la-poste-groupe-open-data-openapi.json#POST /datasets

@@ -1,0 +1,31 @@
+provider: eu-open-data-portal
+apis_io: https://apis.io/providers/eu-open-data-portal/
+context: open-data-catalogs
+generated: '2026-11-11'
+concepts:
+  dataset:
+    path_segment:
+    - datasets
+    - package_list
+    - package_search
+    - package_show
+    properties:
+      id:
+      - id
+      - identifier
+      name: title
+      description: description
+      publisher_id: publisher
+      created_at: issued
+      keywords:
+      - keywords
+      - categories
+      updated_at: modified
+      distributions: distributions
+    core_coverage: 1.0
+    evidence:
+    - openapi/_original/eu-open-data-portal-hub-repo-openapi.yaml#DELETE /datasets
+    - openapi/_original/eu-open-data-portal-hub-repo-openapi.yaml#DELETE /datasets/{datasetId}
+    - openapi/_original/eu-open-data-portal-hub-repo-openapi.yaml#DELETE /drafts/datasets/{id}
+    - openapi/_original/eu-open-data-portal-hub-repo-openapi.yaml#GET /catalogues/{catalogueId}/datasets
+    - openapi/_original/eu-open-data-portal-hub-repo-openapi.yaml#GET /datasets

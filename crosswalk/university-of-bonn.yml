@@ -1,0 +1,13 @@
+provider: university-of-bonn
+apis_io: https://apis.io/providers/university-of-bonn/
+context: open-data-catalogs
+generated: '2026-11-11'
+concepts:
+  dataset:
+    path_segment:
+    - datasets
+    properties: {}
+    core_coverage: 0.0
+    evidence:
+    - openapi/_original/university-of-bonn-bonndata-native-api.yaml#GET /datasets/{id}
+    - openapi/_original/university-of-bonn-bonndata-native-api.yaml#GET /info/metrics/datasets

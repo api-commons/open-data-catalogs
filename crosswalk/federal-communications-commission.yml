@@ -1,0 +1,16 @@
+provider: federal-communications-commission
+apis_io: https://apis.io/providers/federal-communications-commission/
+context: open-data-catalogs
+generated: '2026-11-11'
+concepts:
+  dataset:
+    path_segment:
+    - views
+    properties:
+      id: id
+      name: name
+      description: description
+      created_at: createdAt
+    core_coverage: 1.0
+    evidence:
+    - openapi/_original/opendata.yml#GET /api/views.json

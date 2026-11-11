@@ -1,0 +1,249 @@
+context: open-data-catalogs
+name: Open Data Catalogs
+generated: '2026-11-11'
+version: 0.1.0-draft.20261111
+status: draft
+cohort:
+  tags:
+  - Open Data
+  - Data Catalog
+  - Government Data
+  - DCAT
+  - CKAN
+  - Open Government
+  - Data Portal
+  providers_with_harvested_openapi: 276
+thresholds:
+  core: 0.5
+  extended: 0.2
+  min_providers: 3
+excluded: {}
+duplicates:
+  us-bureau-of-labor-statistics:
+  - bls-gov
+  cdc:
+  - cdc-gov
+  neso:
+  - national-energy-system-operator
+  powershop:
+  - cdr-energy
+shared_specs: {}
+concepts:
+  dataset:
+    segments_seen:
+      datasets: 22
+      dataset: 7
+      package_search: 6
+      package_show: 6
+      package_list: 5
+      views: 2
+    providers_exposing: 33
+    providers_with_readable_schema: 29
+    operations:
+    - operation: GET collection
+      providers: 27
+      share: 0.818
+      tier: core
+    - operation: GET item
+      providers: 24
+      share: 0.727
+      tier: core
+    - operation: DELETE item
+      providers: 6
+      share: 0.182
+      tier: long-tail
+    - operation: POST collection
+      providers: 6
+      share: 0.182
+      tier: long-tail
+    - operation: POST item
+      providers: 3
+      share: 0.091
+      tier: long-tail
+    - operation: UPDATE item
+      providers: 3
+      share: 0.091
+      tier: long-tail
+    - operation: DELETE collection
+      providers: 1
+      share: 0.03
+      tier: long-tail
+    - operation: UPDATE collection
+      providers: 1
+      share: 0.03
+      tier: long-tail
+    properties:
+    - name: id
+      tier: core
+      providers: 21
+      share: 0.724
+      type: string
+      spellings:
+      - id
+      - dataset_id
+      - identifier
+      - slug
+      - datasetId
+    - name: name
+      tier: extended
+      providers: 14
+      share: 0.483
+      type: string
+      spellings:
+      - title
+      - name
+      - displayName
+      - label
+    - name: description
+      tier: extended
+      providers: 12
+      share: 0.414
+      type: string
+      spellings:
+      - description
+      - notes
+      - summary
+    - name: attachments
+      tier: extended
+      providers: 9
+      share: 0.31
+      type: array
+      spellings:
+      - attachments
+    - name: publisher_id
+      tier: extended
+      providers: 9
+      share: 0.31
+      type: object
+      spellings:
+      - organization
+      - publisher
+      - owner
+      - owner_org
+    - name: created_at
+      tier: extended
+      providers: 8
+      share: 0.276
+      type: string
+      spellings:
+      - issued
+      - created
+      - createdAt
+      - metadata_created
+    - name: data_visible
+      tier: extended
+      providers: 8
+      share: 0.276
+      type: boolean
+      spellings:
+      - data_visible
+    - name: dataset_uid
+      tier: extended
+      providers: 8
+      share: 0.276
+      type: string
+      spellings:
+      - dataset_uid
+    - name: features
+      tier: extended
+      providers: 8
+      share: 0.276
+      type: array
+      spellings:
+      - features
+    - name: fields
+      tier: extended
+      providers: 8
+      share: 0.276
+      type: array
+      spellings:
+      - fields
+    - name: has_records
+      tier: extended
+      providers: 8
+      share: 0.276
+      type: boolean
+      spellings:
+      - has_records
+    - name: keywords
+      tier: extended
+      providers: 8
+      share: 0.276
+      type: array
+      spellings:
+      - tags
+      - keyword
+      - keywords
+      - theme
+      - categories
+      - groups
+    - name: metas
+      tier: extended
+      providers: 8
+      share: 0.276
+      type: object
+      spellings:
+      - metas
+    - name: updated_at
+      tier: extended
+      providers: 8
+      share: 0.276
+      type: string
+      spellings:
+      - modified
+      - updated
+      - metadata_modified
+      - last_updated
+      - updatedAt
+    - name: distributions
+      tier: extended
+      providers: 7
+      share: 0.241
+      type: array
+      spellings:
+      - resources
+      - distribution
+      - files
+      - distributions
+    long_tail_count: 196
+    long_tail_sample:
+    - contact_point
+    - license
+    - type
+    - metadata
+    - status
+    - version
+    - access_level
+    - creator
+    - private
+    - state
+    - temporal
+    - author_email
+    - citation
+    - conforms_to
+    - created_by
+    - doi
+    - draft
+    - published
+    - spatial
+    - updated_by
+    - visibility
+    - access_right
+    - accessibility
+    - accrual_periodicity
+    - additional_identifier
+    - adms_identifier
+    - analysis
+    - app_name
+    - applicable_legislation
+    - asset_status
+    - asset_status_iri
+    - attachments_as_image
+    - attribute
+    - attribution_statement
+    - auto_sync_interval
+    - bbox
+    - catalog
+    - catalog_record
+    - category
+    - certification

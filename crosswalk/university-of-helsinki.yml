@@ -1,0 +1,19 @@
+provider: university-of-helsinki
+apis_io: https://apis.io/providers/university-of-helsinki/
+context: open-data-catalogs
+generated: '2026-11-11'
+concepts:
+  dataset:
+    path_segment:
+    - datasets
+    properties:
+      id: id
+      name: name
+      description: description
+    core_coverage: 1.0
+    evidence:
+    - openapi/_original/university-of-helsinki-finbif-laji-openapi.json#DELETE /trait/datasets/{id}
+    - openapi/_original/university-of-helsinki-finbif-laji-openapi.json#GET /trait/datasets
+    - openapi/_original/university-of-helsinki-finbif-laji-openapi.json#GET /trait/datasets/{id}
+    - openapi/_original/university-of-helsinki-finbif-laji-openapi.json#POST /trait/datasets
+    - openapi/_original/university-of-helsinki-finbif-laji-openapi.json#PUT /trait/datasets/{id}

@@ -1,0 +1,17 @@
+provider: ubc
+apis_io: https://apis.io/providers/ubc/
+context: open-data-catalogs
+generated: '2026-11-11'
+concepts:
+  dataset:
+    path_segment:
+    - datasets
+    - dataset
+    properties: {}
+    core_coverage: null
+    evidence:
+    - openapi/_original/ubc-abacus-dataverse.yaml#DELETE /api/v1/datasets/{id}
+    - openapi/_original/ubc-abacus-dataverse.yaml#GET /api/v1/access/dataset/{id}
+    - openapi/_original/ubc-abacus-dataverse.yaml#GET /api/v1/admin/index/dataset
+    - openapi/_original/ubc-abacus-dataverse.yaml#GET /api/v1/admin/validate/dataset/{id}
+    - openapi/_original/ubc-abacus-dataverse.yaml#GET /api/v1/admin/validate/datasets

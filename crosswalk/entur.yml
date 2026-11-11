@@ -1,0 +1,16 @@
+provider: entur
+apis_io: https://apis.io/providers/entur/
+context: open-data-catalogs
+generated: '2026-11-11'
+concepts:
+  dataset:
+    path_segment:
+    - dataset
+    - datasets
+    properties: {}
+    core_coverage: 0.0
+    evidence:
+    - openapi/_original/entur-clearing-reports-openapi.json#GET /api/v2/partner-data/dataset/{datasetId}
+    - openapi/_original/entur-clearing-reports-openapi.yml#GET /api/v2/partner-data/dataset/{datasetId}
+    - openapi/_original/entur-timetable-management-openapi.json#POST /datasets/{codespace}
+    - openapi/_original/entur-timetable-management-openapi.yml#POST /datasets/{codespace}

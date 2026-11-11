@@ -1,0 +1,50 @@
+standard: dcat-us-1.1
+source: https://github.com/project-open-data/project-open-data.github.io/tree/master/v1.1/schema
+concepts:
+  dataset:
+    objects:
+    - dataset
+    core_coverage: 1.0
+    extended_coverage: 0.5
+    core_missing_from_standard: []
+    crosswalk:
+      access_level: accessLevel
+      license: rights
+      accrual_periodicity: accrualPeriodicity
+      contact_point: contactPoint
+      conforms_to: conformsTo
+      description: description
+      distributions: distribution
+      id: identifier
+      created_at: issued
+      keywords: keyword
+      updated_at: modified
+      publisher_id: publisher
+      spatial: spatial
+      temporal: temporal
+      name: title
+    standard_only:
+    - bureauCode
+    - describedBy
+    - describedByType
+    - dataQuality
+    - landingPage
+    - language
+    - primaryITInvestmentUII
+    - programCode
+    - references
+    - systemOfRecords
+    - isPartOf
+defines_unpublished:
+  distribution:
+    object: distribution
+    fields:
+    - downloadURL
+    - mediaType
+    - format
+    - accessURL
+    - description
+    - title
+    - conformsTo
+    - describedBy
+    - describedByType

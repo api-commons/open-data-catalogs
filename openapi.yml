@@ -1,0 +1,64 @@
+openapi: 3.1.0
+info:
+  title: Open Data Catalogs (API Commons)
+  version: 0.1.0-draft.20261111
+  description: 'The common Open Data Catalogs interface, distilled from the harvested OpenAPI of 276 providers in
+    the APIs.io catalog. Not a product: no one serves this API. It is the shape the market already shares, measured,
+    so that providers, agents and integrators can map to one vocabulary. See profile.yml.'
+  license:
+    name: CC BY-NC-SA 4.0
+    url: https://creativecommons.org/licenses/by-nc-sa/4.0/
+paths:
+  /datasets:
+    get:
+      operationId: listDatasets
+      summary: List datasets
+      tags:
+      - Datasets
+      x-commons-tier: core
+      x-commons-share: 0.818
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items: &id001
+                  $ref: '#/components/schemas/Dataset'
+      parameters:
+      - name: limit
+        in: query
+        schema:
+          type: integer
+      - name: cursor
+        in: query
+        schema:
+          type: string
+  /datasets/{dataset_id}:
+    parameters:
+    - $ref: '#/components/parameters/dataset_id'
+    get:
+      operationId: getDataset
+      summary: Get a dataset
+      tags:
+      - Datasets
+      x-commons-tier: core
+      x-commons-share: 0.727
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema: *id001
+components:
+  schemas:
+    Dataset:
+      $ref: ./schema/dataset.json
+  parameters:
+    dataset_id:
+      name: dataset_id
+      in: path
+      required: true
+      schema:
+        type: string

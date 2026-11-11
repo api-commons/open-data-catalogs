@@ -1,0 +1,18 @@
+provider: neso
+apis_io: https://apis.io/providers/neso/
+context: open-data-catalogs
+generated: '2026-11-11'
+concepts:
+  dataset:
+    path_segment:
+    - package_list
+    - package_search
+    - package_show
+    properties: {}
+    core_coverage: 0.0
+    evidence:
+    - openapi/_original/national-energy-system-operator-openapi.json#GET /package_list
+    - openapi/_original/national-energy-system-operator-openapi.json#GET /package_search
+    - openapi/_original/national-energy-system-operator-openapi.json#GET /package_show
+    - openapi/_original/neso-data-portal-openapi.json#GET /package_list
+    - openapi/_original/neso-data-portal-openapi.json#GET /package_search
